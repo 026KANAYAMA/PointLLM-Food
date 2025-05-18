@@ -6,7 +6,7 @@ from pointllm.conversation import conv_templates, SeparatorStyle
 from pointllm.utils import disable_torch_init
 from pointllm.model.utils import KeywordsStoppingCriteria
 from pointllm.model import PointLLMLlamaForCausalLM
-from pointllm.data import ModelNet
+from pointllm.data import ModelNet, ModelNet10
 from tqdm import tqdm
 from pointllm.eval.evaluator import start_evaluation
 from transformers import AutoTokenizer
@@ -20,6 +20,7 @@ PROMPT_LISTS = [
 ]
 
 def init_model(args):
+
     # Model
     disable_torch_init()
     model_name = os.path.expanduser(args.model_name)
@@ -43,10 +44,27 @@ def init_model(args):
 
     return model, tokenizer, conv
 
-def load_dataset(config_path, split, subset_nums, use_color):
-    print(f"Loading {split} split of ModelNet datasets.")
-    dataset = ModelNet(config_path=config_path, split=split, subset_nums=subset_nums, use_color=use_color)
-    print("Done!")
+def load_dataset(config_path, dataset_name, split, subset_nums, use_color):
+    print(f"Loading {split} split of {dataset_name} datasets.")
+    if dataset_name == "modelnet40":
+        dataset = ModelNet(
+            config_path=config_path, 
+            split=split, 
+            subset_nums=subset_nums, 
+            use_color=use_color
+        )
+    elif dataset_name == "modelnet10":
+        dataset = ModelNet10(
+            split=split,
+            subset_nums=subset_nums,
+            use_color=use_color
+        )
+    else:
+        dataset = None
+    if dataset is None:
+        raise RuntimeError("datasetを指定してください")
+    else:
+        print("Done!")
     return dataset
 
 def get_dataloader(dataset, batch_size, shuffle=False, num_workers=4):
@@ -143,15 +161,18 @@ def start_generation(model, tokenizer, conv, dataloader, prompt_index, output_di
 def main(args):
     # * ouptut
     args.output_dir = os.path.join(args.model_name, "evaluation")
-
-    # * output file 
-    args.output_file = f"ModelNet_classification_prompt{args.prompt_index}.json"
+    args.output_file = f"{args.dataset}.json"
     args.output_file_path = os.path.join(args.output_dir, args.output_file)
 
     # * First inferencing, then evaluate
     if not os.path.exists(args.output_file_path):
         # * need to generate results first
-        dataset = load_dataset(config_path=None, split=args.split, subset_nums=args.subset_nums, use_color=args.use_color) # * defalut config
+        dataset = load_dataset(
+            config_path=None, 
+            dataset_name=args.dataset,
+            split=args.split, 
+            subset_nums=args.subset_nums, 
+            use_color=args.use_color) 
         dataloader = get_dataloader(dataset, args.batch_size, args.shuffle, args.num_workers)
     
         model, tokenizer, conv = init_model(args)
@@ -201,6 +222,15 @@ if __name__ == "__main__":
         help="device_map argument for from_pretrained (e.g., auto, balanced_low_0)"
     )
 
+    parser.add_argument("--dataset", type=str, default="modelnet40")
+
     args = parser.parse_args()
 
     main(args)
+
+
+# ----------------実行----------------
+
+# export PYTHONPATH=$PWD
+
+# nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --device_map auto --num_workers 8 --dataset modelnet10 > ~/Projects/LLM/nohup.groovy &
