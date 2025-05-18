@@ -28,7 +28,13 @@ def init_model(args):
     print(f'[INFO] Model name: {os.path.basename(model_name)}')
 
     tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = PointLLMLlamaForCausalLM.from_pretrained(model_name, low_cpu_mem_usage=False, use_cache=True, torch_dtype=torch.bfloat16).cuda()
+    model = PointLLMLlamaForCausalLM.from_pretrained(
+        model_name,
+        low_cpu_mem_usage=True, 
+        use_cache=True, 
+        torch_dtype=torch.bfloat16,
+        device_map=args.device_map
+    )
     model.initialize_tokenizer_point_backbone_config_wo_embedding(tokenizer)
 
     conv_mode = "vicuna_v1_1"
@@ -189,6 +195,11 @@ if __name__ == "__main__":
     parser.add_argument("--prompt_index", type=int, default=0)
     parser.add_argument("--start_eval", action="store_true", default=False)
     parser.add_argument("--gpt_type", type=str, default="gpt-3.5-turbo-0613", choices=["gpt-3.5-turbo-0613", "gpt-3.5-turbo-1106", "gpt-4-0613", "gpt-4-1106-preview"], help="Type of the model used to evaluate.")
+
+    parser.add_argument(
+        "--device_map", type=str, default="auto",
+        help="device_map argument for from_pretrained (e.g., auto, balanced_low_0)"
+    )
 
     args = parser.parse_args()
 
