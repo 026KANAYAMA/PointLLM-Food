@@ -10,7 +10,7 @@ from pointllm.utils import *
 
 from contextlib import nullcontext
 from transformers import AutoConfig, AutoModelForCausalLM, \
-                         LlamaConfig, LlamaModel, LlamaForCausalLM
+                        LlamaConfig, LlamaModel, LlamaForCausalLM
 
 from transformers.modeling_outputs import BaseModelOutputWithPast, CausalLMOutputWithPast
 

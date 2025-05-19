@@ -22,7 +22,7 @@ PROMPT_LISTS = [
 def init_model(args):
 
     # Model
-    disable_torch_init()
+    disable_torch_init() #デフォルト重み初期化を無効化、学習済み重み読むから不要
     model_name = os.path.expanduser(args.model_name)
 
     # * print the model_name (get the basename)
