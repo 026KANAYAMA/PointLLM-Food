@@ -40,7 +40,7 @@ def init_model(args):
         model_name,
         low_cpu_mem_usage=True, 
         use_cache=True, 
-        torch_dtype=torch.bfloat16,
+        # torch_dtype=torch.bfloat16,
         device_map=args.device_map
     )
     model.initialize_tokenizer_point_backbone_config_wo_embedding(tokenizer)
