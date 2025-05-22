@@ -124,7 +124,7 @@ class PointLLMLlamaModel(LlamaModel):
                     point_features = self.point_backbone(point_clouds)
 
             if type(point_clouds) is list:
-                point_features = [self.point_proj(point_feature) for point_feature in point_features]
+                point_features = [self.point_proj(point_feature) for point_feature in point_features] # [B,513,2048]
             else:
                 point_features = self.point_proj(point_features)
 
@@ -135,7 +135,7 @@ class PointLLMLlamaModel(LlamaModel):
             cur_point_idx = 0
             for cur_input_ids, cur_input_embeds in zip(input_ids, inputs_embeds): # * input_ids: B, L; input_embeds: B, L, C
                 if (cur_input_ids == point_backbone_config['point_patch_token']).sum() == 0:
-                    # multimodal LLM, but the current sample is not multimodal
+                    # 点群含まない場合、ダミーの特徴点群を使って、計算グラフを維持
                     cur_input_embeds = cur_input_embeds + (0. * dummy_point_features).sum() # * do nothing
                     new_input_embeds.append(cur_input_embeds)
                     cur_point_idx += 1
@@ -145,11 +145,15 @@ class PointLLMLlamaModel(LlamaModel):
                 if point_backbone_config['mm_use_point_start_end']:
                     if (cur_input_ids == point_backbone_config["point_start_token"]).sum() != (cur_input_ids == point_backbone_config["point_end_token"]).sum():
                         raise ValueError("The number of point start tokens and point end tokens should be the same.")
+                    # indexを返す
                     point_start_tokens = torch.where(cur_input_ids == point_backbone_config["point_start_token"])[0]
                     for point_start_token_pos in point_start_tokens:
                         if cur_input_ids[point_start_token_pos + num_patches + 1] != point_backbone_config["point_end_token"]:
                             raise ValueError("The point end token should follow the point start token.")
                         if orig_embeds_params is not None: # * will not update the original embeddings except for POINT_START_TOKEN and POINT_END_TOKEN
+                            # text + point clouds
+                            # detach()により学習から切る
+                            # 点群開始トークン前のテキスト + 点群開始トークン + 点群特徴量 + 点群終了トークン + 点群終了トークン後のテキスト
                             cur_new_input_embeds = torch.cat((cur_input_embeds[:point_start_token_pos].detach(), cur_input_embeds[point_start_token_pos:point_start_token_pos+1], cur_point_features, cur_input_embeds[point_start_token_pos + num_patches + 1:point_start_token_pos + num_patches + 2], cur_input_embeds[point_start_token_pos + num_patches + 2:].detach()), dim=0)
                         else:
                             cur_new_input_embeds = torch.cat((cur_input_embeds[:point_start_token_pos+1], cur_point_features, cur_input_embeds[point_start_token_pos + num_patches + 1:]), dim=0)
@@ -168,6 +172,7 @@ class PointLLMLlamaModel(LlamaModel):
                         cur_new_input_embeds = torch.cat((cur_input_embeds[:mask_index_start], cur_point_features, cur_input_embeds[mask_index_start+num_patches:]), dim=0)
                     new_input_embeds.append(cur_new_input_embeds)
                     cur_point_idx += 1
+            # バッチ化
             inputs_embeds = torch.stack(new_input_embeds, dim=0)
 
         return super(PointLLMLlamaModel, self).forward(
@@ -319,13 +324,13 @@ class PointLLMLlamaForCausalLM(LlamaForCausalLM):
             point_backbone_config['default_point_end_token'] = default_point_end_token
 
             num_new_tokens = tokenizer.add_tokens([default_point_start_token, default_point_end_token], special_tokens=True)
-            self.resize_token_embeddings(len(tokenizer))
+            self.resize_token_embeddings(len(tokenizer)) #<point_patch><point_start><point_end>が追加
             point_backbone_config["point_start_token"] = tokenizer.convert_tokens_to_ids([default_point_start_token])[0]
             point_backbone_config["point_end_token"] = tokenizer.convert_tokens_to_ids([default_point_end_token])[0]
 
             if num_new_tokens > 0:
-                input_embeddings = self.get_input_embeddings().weight.data
-                output_embeddings = self.get_output_embeddings().weight.data
+                input_embeddings = self.get_input_embeddings().weight.data #[V_in, D]
+                output_embeddings = self.get_output_embeddings().weight.data # [V_out,D]
 
                 input_embeddings_avg = input_embeddings[:-num_new_tokens].mean(
                     dim=0, keepdim=True)

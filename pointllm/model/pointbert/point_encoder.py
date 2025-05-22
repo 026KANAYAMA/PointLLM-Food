@@ -57,7 +57,7 @@ class Attention(nn.Module):
 
 class Block(nn.Module):
     def __init__(self, dim, num_heads, mlp_ratio=4., qkv_bias=False, qk_scale=None, drop=0., attn_drop=0.,
-                 drop_path=0., act_layer=nn.GELU, norm_layer=nn.LayerNorm):
+                drop_path=0., act_layer=nn.GELU, norm_layer=nn.LayerNorm):
         super().__init__()
         self.norm1 = norm_layer(dim)
 
@@ -81,7 +81,7 @@ class TransformerEncoder(nn.Module):
     """
 
     def __init__(self, embed_dim=768, depth=4, num_heads=12, mlp_ratio=4., qkv_bias=False, qk_scale=None,
-                 drop_rate=0., attn_drop_rate=0., drop_path_rate=0.):
+                drop_rate=0., attn_drop_rate=0., drop_path_rate=0.):
         super().__init__()
 
         self.blocks = nn.ModuleList([
@@ -131,7 +131,7 @@ class PointTransformer(nn.Module):
             nn.Linear(128, self.trans_dim)
         )
 
-        dpr = [x.item() for x in torch.linspace(0, self.drop_path_rate, self.depth)]
+        dpr = [x.item() for x in torch.linspace(0, self.drop_path_rate, self.depth)] # 層が深くなるにつれてdrop_path率を高める
         self.blocks = TransformerEncoder(
             embed_dim=self.trans_dim,
             depth=self.depth,
@@ -166,9 +166,9 @@ class PointTransformer(nn.Module):
             # * print successful loading
             print_log("PointBERT's weights are successfully loaded from {}".format(bert_ckpt_path), logger='Transformer')
 
-    def forward(self, pts):
+    def forward(self, pts): #[1,N,3]
         # divide the point cloud in the same form. This is important
-        neighborhood, center = self.group_divider(pts)
+        neighborhood, center = self.group_divider(pts) #[B,G,M,3], [B,G,3]
         # encoder the input cloud blocks
         group_input_tokens = self.encoder(neighborhood)  # B G N
         group_input_tokens = self.reduce_dim(group_input_tokens)

@@ -365,7 +365,8 @@ conv_templates = {
     # fastchat
     "v1": conv_v1_2,
     "bair_v1": conv_bair_v1,
-    "vicuna_v1_1": conv_vicuna_v1_1,
+    ""
+    "_v1_1": conv_vicuna_v1_1,
     "mpt": conv_mpt,
     "mpt_text": conv_mpt_text,
 }

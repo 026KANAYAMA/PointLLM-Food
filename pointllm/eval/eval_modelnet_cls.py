@@ -6,7 +6,7 @@ from pointllm.conversation import conv_templates, SeparatorStyle
 from pointllm.utils import disable_torch_init
 from pointllm.model.utils import KeywordsStoppingCriteria
 from pointllm.model import PointLLMLlamaForCausalLM
-from pointllm.data import ModelNet, ModelNet10
+from pointllm.data import ModelNet, ModelNet10, ModelNet10WithNorm
 from tqdm import tqdm
 from pointllm.eval.evaluator import start_evaluation
 from transformers import AutoTokenizer
@@ -59,6 +59,12 @@ def load_dataset(config_path, dataset_name, split, subset_nums, use_color):
             subset_nums=subset_nums,
             use_color=use_color
         )
+    elif dataset_name == "modelnet10_with_norm":
+        dataset = ModelNet10WithNorm(
+            split=split,
+            subset_nums=subset_nums,
+            use_color=use_color
+        )
     else:
         dataset = None
     if dataset is None:
@@ -87,9 +93,11 @@ def generate_outputs(model, tokenizer, input_ids, point_clouds, stopping_criteri
             stopping_criteria=[stopping_criteria]) # * B, L'
 
     input_token_len = input_ids.shape[1]
+    # 先頭 input_token_len 個が 100% 同じかチェック
     n_diff_input_output = (input_ids != output_ids[:, :input_token_len]).sum().item()
     if n_diff_input_output > 0:
         print(f'[Warning] {n_diff_input_output} output_ids are not the same as the input_ids')
+    # プロンプト以降（生成トークンだけ）をデコード
     outputs = tokenizer.batch_decode(output_ids[:, input_token_len:], skip_special_tokens=True)
     outputs = [output.strip() for output in outputs]
 
@@ -175,7 +183,8 @@ def main(args):
             use_color=args.use_color) 
         dataloader = get_dataloader(dataset, args.batch_size, args.shuffle, args.num_workers)
     
-        model, tokenizer, conv = init_model(args)
+        # PointLLMLlamaForCausalLM, AutoTokenizer, vicuna_v1_1
+        model, tokenizer, conv = init_model(args) 
 
         # * ouptut
         print(f'[INFO] Start generating results for {args.output_file}.')
@@ -232,5 +241,4 @@ if __name__ == "__main__":
 # ----------------実行----------------
 
 # export PYTHONPATH=$PWD
-
-# nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --device_map auto --num_workers 8 --dataset modelnet10 > ~/Projects/LLM/nohup.groovy &
+# nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --device_map auto --num_workers 8 --dataset modelnet10_with_norm > ~/Projects/LLM/nohup.groovy &
