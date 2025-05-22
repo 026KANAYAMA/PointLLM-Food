@@ -16,7 +16,14 @@ import json
 
 PROMPT_LISTS = [
     "What is this?",
-    "This is an object of "
+    "This is an object of ",
+    (
+        "The following input is a 3-D point-cloud model of a household object.\n"
+        "Answer with **exactly one** word chosen from this list:\n"
+        "bathtub, bed, chair, desk, dresser, monitor, night_stand, sofa, table, toilet.\n"
+        "Do not add any extra words, punctuation or explanations.\n\n"
+        "Answer:"
+    )
 ]
 
 def init_model(args):
@@ -81,6 +88,11 @@ def get_dataloader(dataset, batch_size, shuffle=False, num_workers=4):
 
 def generate_outputs(model, tokenizer, input_ids, point_clouds, stopping_criteria, do_sample=True, temperature=1.0, top_k=50, max_length=2048, top_p=0.95):
     model.eval() 
+    # 出力を1tokenにする
+    do_sample = False
+    temperature = 0.0
+    top_k = 1
+    max_new_tokens=2
     with torch.inference_mode():
         output_ids = model.generate(
             input_ids,
@@ -88,7 +100,8 @@ def generate_outputs(model, tokenizer, input_ids, point_clouds, stopping_criteri
             do_sample=do_sample,
             temperature=temperature,
             top_k=top_k,
-            max_length=max_length,
+            # max_length=max_length,
+            max_new_tokens=max_new_tokens,
             top_p=top_p,
             stopping_criteria=[stopping_criteria]) # * B, L'
 
@@ -240,5 +253,10 @@ if __name__ == "__main__":
 
 # ----------------実行----------------
 
+## default
 # export PYTHONPATH=$PWD
 # nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --device_map auto --num_workers 8 --dataset modelnet10_with_norm > ~/Projects/LLM/nohup.groovy &
+
+## クラス分類、生成1token
+# export PYTHONPATH=$PWD
+# nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --device_map auto --num_workers 8 --prompt_index 2 --dataset modelnet10_with_norm > ~/Projects/LLM/nohup.groovy &
