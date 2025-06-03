@@ -92,7 +92,7 @@ def generate_outputs(model, tokenizer, input_ids, point_clouds, stopping_criteri
     do_sample = False
     temperature = 0.0
     top_k = 1
-    max_new_tokens=2
+    max_new_tokens=3
     with torch.inference_mode():
         output_ids = model.generate(
             input_ids,
@@ -181,8 +181,9 @@ def start_generation(model, tokenizer, conv, dataloader, prompt_index, output_di
 
 def main(args):
     # * ouptut
-    args.output_dir = os.path.join(args.model_name, "evaluation")
-    args.output_file = f"{args.dataset}.json"
+    # args.output_dir = os.path.join(args.model_name, "evaluation")
+    args.output_dir = "/home/yanai-lab/kanayama-r/Projects/LLM/PointLLM-Food/out"
+    args.output_file = f"{args.dataset}_3token.json"
     args.output_file_path = os.path.join(args.output_dir, args.output_file)
 
     # * First inferencing, then evaluate
