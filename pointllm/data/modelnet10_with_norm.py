@@ -123,4 +123,11 @@ if __name__ == '__main__':
         split=args.split, 
         subset_nums=args.subset_nums
     )
-    print(dataset[0])
+    
+    out_file= "/export/space0/kanayama-r/Projects/LLM/notebooks/modelnet10_sample.npy"
+    import numpy as np
+    for data in dataset:
+        point_cloud_tensor = data["point_clouds"]
+        point_cloud_np = point_cloud_tensor.cpu().numpy()
+        np.save(out_file, point_cloud_np)
+        break

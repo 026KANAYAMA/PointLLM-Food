@@ -1,0 +1,23 @@
+{
+  "prompt": "The following input is a 3-D point-cloud model of a food object.\nAnswer with **exactly one** word chosen from this list:\nfriedshrimp, potato, tamago\nDo not add any extra words, punctuation or explanations.\n\nAnswer:",
+  "results": [
+    {
+      "object_id": 0,
+      "ground_truth": 0,
+      "model_output": "friedshrimp",
+      "label_name": "friedshrimp"
+    },
+    {
+      "object_id": 1,
+      "ground_truth": 1,
+      "model_output": "The 3D model represents a bowl of soup.",
+      "label_name": "potato"
+    },
+    {
+      "object_id": 2,
+      "ground_truth": 2,
+      "model_output": "The 3D object model is of a piece of fried shrimp.",
+      "label_name": "tamago"
+    }
+  ]
+}

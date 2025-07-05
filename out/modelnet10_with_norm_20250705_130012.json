@@ -1,0 +1,5453 @@
+{
+  "prompt": "What is this?",
+  "results": [
+    {
+      "object_id": 0,
+      "ground_truth": 0,
+      "model_output": "yruspton mer viaockeyockey machineuolauolauolauolauolauola:::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 1,
+      "ground_truth": 0,
+      "model_output": "\u0441\u043b\u0430 Bast---:uolauola******plexplexplexplexplex::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 2,
+      "ground_truth": 0,
+      "model_output": "ani9-- kn:/(uola****::::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 3,
+      "ground_truth": 0,
+      "model_output": "'BA viaementementementement  emblyemblyembly****************:",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 4,
+      "ground_truth": 0,
+      "model_output": "ocoleb,,,;-- aonenonenonenonen:::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 5,
+      "ground_truth": 0,
+      "model_output": "ensa Bastou-:ountryuolauolauolauolauola:::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 6,
+      "ground_truth": 0,
+      "model_output": "qu and'& :alle::::::9999",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 7,
+      "ground_truth": 0,
+      "model_output": "'BA via'''''       ****************",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 8,
+      "ground_truth": 0,
+      "model_output": "NAicale object:-iktplexplexplex:::::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 9,
+      "ground_truth": 0,
+      "model_output": "Overflowzik--;:ountryuolauolaonenonenonenonenonen denn denn denn denn denn denn",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 10,
+      "ground_truth": 0,
+      "model_output": "wid\u03cc 'uerueruerikoruolauolaugougougougo tym tym tymonenonenonen tym",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 11,
+      "ground_truth": 0,
+      "model_output": "'BA 'BABABABA**************************",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 12,
+      "ground_truth": 0,
+      "model_output": "olas abb ( ( ( via '/ \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430    kn kn kn kn machine machine machine machine",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 13,
+      "ground_truth": 0,
+      "model_output": "weakzik--- machine machine**************::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 14,
+      "ground_truth": 0,
+      "model_output": "Middle\u2014---:/(% denn denn denn denn tym tymonenonenonen:::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 15,
+      "ground_truth": 0,
+      "model_output": "BA    BABABABABA    ******************",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 16,
+      "ground_truth": 0,
+      "model_output": "stedleb object-:: machineuolauolauolauola:::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 17,
+      "ground_truth": 0,
+      "model_output": "abljoignFF999::::airess Archivlink\u21b5 And anues",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 18,
+      "ground_truth": 0,
+      "model_output": "struct9 via via kn kn machine machine machineuola machine machine machine machine machine machine machine::ement",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 19,
+      "ground_truth": 0,
+      "model_output": "cabinet via  '''   ************************",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 20,
+      "ground_truth": 0,
+      "model_output": "ballrogami---ountryountry99:%%%%%%%%%",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 21,
+      "ground_truth": 0,
+      "model_output": "AMLzik  -- kn kn machine machine machine::::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 22,
+      "ground_truth": 0,
+      "model_output": "rit9- kn kn knuolauola****::::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 23,
+      "ground_truth": 0,
+      "model_output": "rustBA  BABABABABABA    ******************",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 24,
+      "ground_truth": 0,
+      "model_output": "imalenst ( having m//ountrykukuku:::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 25,
+      "ground_truth": 0,
+      "model_output": "ksaisign the the the the the      -----2",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 26,
+      "ground_truth": 0,
+      "model_output": "'9 via kn kn kn kn kn machineuola******:::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 27,
+      "ground_truth": 0,
+      "model_output": "cabinetBA        ****************************",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 28,
+      "ground_truth": 0,
+      "model_output": "the owk--- ( computer computeruolauolauola::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 29,
+      "ground_truth": 0,
+      "model_output": "\u0425\u0440\u043ezik--::onenonenonenonen::::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 30,
+      "ground_truth": 0,
+      "model_output": "rust9ockey kn kn kn machine/(uola****:::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 31,
+      "ground_truth": 0,
+      "model_output": "'<BA''''BABABABABABABABABABABABABABA",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 32,
+      "ground_truth": 0,
+      "model_output": "demselbenINITwe ( (ockeyockeyockey::::::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 33,
+      "ground_truth": 0,
+      "model_output": "manip Bast---uolauolauola**:::::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 34,
+      "ground_truth": 0,
+      "model_output": "'\u2014 m m::/(uolauolauolauolauola:ovovov%:::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 35,
+      "ground_truth": 0,
+      "model_output": "sparseBA''''''''''''''''''",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 36,
+      "ground_truth": 0,
+      "model_output": "unnelaldad m kn knockeyockey/(/(/( Machineuola:::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 37,
+      "ground_truth": 0,
+      "model_output": "weakzik*;:::onenonenonenonenonenonenonenonenonen::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 38,
+      "ground_truth": 0,
+      "model_output": "9 via kn kn kn machine machineuolauolauola:::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 39,
+      "ground_truth": 0,
+      "model_output": "cabinetBA viaementementemblyemblyemblyemblyemblyemblyemblyemblyemblyembly**********",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 40,
+      "ground_truth": 0,
+      "model_output": "- Scrolli the it it suit //?ountryountryountry conscience ** **uola::: **",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 41,
+      "ground_truth": 0,
+      "model_output": "orenzikign::onenonenonenonenonenonenonenonenplexplexplexplexplexplexplex",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 42,
+      "ground_truth": 0,
+      "model_output": "ka9-- kn machine%uola**:::: ** ** ** ** ** **:",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 43,
+      "ground_truth": 0,
+      "model_output": "OverflowBA    BABABAemblyemblyemblyemblyemblyemblyemblyemblyembly********",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 44,
+      "ground_truth": 0,
+      "model_output": "iganpo /// ( (  99991MEMEME//",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 45,
+      "ground_truth": 0,
+      "model_output": "olaszik--::onenonenonenonenonen:::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 46,
+      "ground_truth": 0,
+      "model_output": "olas de--::%********%%%%%%%%:",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 47,
+      "ground_truth": 0,
+      "model_output": "olasBAementementementementementementementementementement****************",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 48,
+      "ground_truth": 0,
+      "model_output": "unnattan ran ( suit \u043f\u0440\u0435\u043c\u0430    kn\ufffduolauolauolauolauola **onenonen%",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 49,
+      "ground_truth": 0,
+      "model_output": "abel Bastou::::uolauolauola::::::::::",
+      "label_name": "bathtub"
+    },
+    {
+      "object_id": 50,
+      "ground_truth": 1,
+      "model_output": "'9- machine kn machine machine machineuola****:::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 51,
+      "ground_truth": 1,
+      "model_output": "rustBAementementementementementementementementementement****************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 52,
+      "ground_truth": 1,
+      "model_output": "aletp the----::onenonenonenonenonen%%%%%",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 53,
+      "ground_truth": 1,
+      "model_output": "fun Bastam:::onenonen::::::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 54,
+      "ground_truth": 1,
+      "model_output": "cabinet------- machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 55,
+      "ground_truth": 1,
+      "model_output": "ertenBA via '********************************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 56,
+      "ground_truth": 1,
+      "model_output": "bbootvent\u25b6\u21b5 the the it  ----------",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 57,
+      "ground_truth": 1,
+      "model_output": "Bakerzikign--- and and it-/ and2222 and m m m",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 58,
+      "ground_truth": 1,
+      "model_output": "Middle\u2014 the''---- machine machine machine machine machine machine tym",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 59,
+      "ground_truth": 1,
+      "model_output": "ieckBA'' 'ementementementement**********************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 60,
+      "ground_truth": 1,
+      "model_output": "olasivan/// kn a aonenonenonenonen%%%%::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 61,
+      "ground_truth": 1,
+      "model_output": "rulezik---:onenonenonenonenonenonenplexplexplexplexplex:::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 62,
+      "ground_truth": 1,
+      "model_output": "'L-----:: machine::::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 63,
+      "ground_truth": 1,
+      "model_output": "'BA via 'BABABABABA**********************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 64,
+      "ground_truth": 1,
+      "model_output": "olas Dres m --- kn2:::% **:",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 65,
+      "ground_truth": 1,
+      "model_output": "ks Bast---::****:::::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 66,
+      "ground_truth": 1,
+      "model_output": "uerabled via kn kn kn machine machine machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 67,
+      "ground_truth": 1,
+      "model_output": "\u05e5BA via viaBABA  **************************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 68,
+      "ground_truth": 1,
+      "model_output": "aveslv in------:::% tym tym:::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 69,
+      "ground_truth": 1,
+      "model_output": "utterzik---: aonenonenonenonenonenonenonen%:::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 70,
+      "ground_truth": 1,
+      "model_output": "'9----- machine machine% tym tym tym ** ** ** ** ** ** **",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 71,
+      "ground_truth": 1,
+      "model_output": "structBA  ''          ********************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 72,
+      "ground_truth": 1,
+      "model_output": "and\u00f3t. and and and and the the theMPmm9999999",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 73,
+      "ground_truth": 1,
+      "model_output": "olas Bast*99  the the the to to a a a---M-:",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 74,
+      "ground_truth": 1,
+      "model_output": "heck via via kn kn kn machine machine machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 75,
+      "ground_truth": 1,
+      "model_output": "cabinetBA'''''defined defined defined defined defined defined defined defined defined defined defined defined defined",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 76,
+      "ground_truth": 1,
+      "model_output": "weakuen cart a9944u--- or or% ** ** **** **",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 77,
+      "ground_truth": 1,
+      "model_output": "zik the the the;:%onenonenonenonen::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 78,
+      "ground_truth": 1,
+      "model_output": "mand9'' kn kn kn machine machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 79,
+      "ground_truth": 1,
+      "model_output": "'BAementementementementementementement**********************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 80,
+      "ground_truth": 1,
+      "model_output": "kidnika1111/1 a a a a a a ago:::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 81,
+      "ground_truth": 1,
+      "model_output": "overflowzikign99  b kn kn kn/(ku the the themedmedarkaireaire",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 82,
+      "ground_truth": 1,
+      "model_output": "ou9--- machine machine machine machine**::::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 83,
+      "ground_truth": 1,
+      "model_output": "coffBA'''''''' 'ementement defined defined defined defined defined defined defined",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 84,
+      "ground_truth": 1,
+      "model_output": "znikWRa9999-- kn kn: computeronen::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 85,
+      "ground_truth": 1,
+      "model_output": "branch estaven- the;; wil wiluolauola tym tym tym tym tym:::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 86,
+      "ground_truth": 1,
+      "model_output": "-9------: machine machine:::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 87,
+      "ground_truth": 1,
+      "model_output": "BA  BABABABABA************************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 88,
+      "ground_truth": 1,
+      "model_output": "-rh  that that-::% **:::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 89,
+      "ground_truth": 1,
+      "model_output": "circzikignic;;::::onenonen **:::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 90,
+      "ground_truth": 1,
+      "model_output": "'9------- machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 91,
+      "ground_truth": 1,
+      "model_output": "abledBA'' 'ementementementement machine machine******************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 92,
+      "ground_truth": 1,
+      "model_output": "idgeikt absent the the the--------------",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 93,
+      "ground_truth": 1,
+      "model_output": "iert Bast- the the---------------",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 94,
+      "ground_truth": 1,
+      "model_output": "heck9- kn kn kn kn knuolauola**:::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 95,
+      "ground_truth": 1,
+      "model_output": "abledBA    BABA   kn kn**********************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 96,
+      "ground_truth": 1,
+      "model_output": "'attan the the the suit/MEME a the ( (''22222",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 97,
+      "ground_truth": 1,
+      "model_output": "ablzik the a a9-- the888 the:---:::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 98,
+      "ground_truth": 1,
+      "model_output": "'9 via machine kn machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 99,
+      "ground_truth": 1,
+      "model_output": "cabinetBA''''****************************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 100,
+      "ground_truth": 1,
+      "model_output": "ksyi---:::::::::plexplexplexplexplex:",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 101,
+      "ground_truth": 1,
+      "model_output": "znikaqueon aae the the the the:--5 the******::.",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 102,
+      "ground_truth": 1,
+      "model_output": "Middle9- kn kn machine machineuolauolauolauola:::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 103,
+      "ground_truth": 1,
+      "model_output": "cabinetBA''BABABABABABABA machine defined defined************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 104,
+      "ground_truth": 1,
+      "model_output": "ceraazine,------ountryountry machine machine machine::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 105,
+      "ground_truth": 1,
+      "model_output": "ks Bast the the the the the-------------",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 106,
+      "ground_truth": 1,
+      "model_output": "'\u2014 m machine'machine machine machine machine machine machine---------",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 107,
+      "ground_truth": 1,
+      "model_output": "BA'''''machine machine machine machine machine machine machine machine machine machine******",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 108,
+      "ground_truth": 1,
+      "model_output": "- Net--- machine machine machine machine**::::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 109,
+      "ground_truth": 1,
+      "model_output": "Overflowzikign:::::onenonen::::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 110,
+      "ground_truth": 1,
+      "model_output": "sense de via kn kn machine machine machine machine machine machine machine machine machine machine machine copy copy copy copy",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 111,
+      "ground_truth": 1,
+      "model_output": "'BAementementementementementementemblyemblyemblyembly****************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 112,
+      "ground_truth": 1,
+      "model_output": "overflowuel m m machine machineuolauolauola:::::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 113,
+      "ground_truth": 1,
+      "model_output": "znik Bast theFFF,,, the   to- and and and and and and",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 114,
+      "ground_truth": 1,
+      "model_output": "'9 via kn kn kn machine machine machine machine machine machine machine machine machine machine machine machine machine:",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 115,
+      "ground_truth": 1,
+      "model_output": "'BABABABABABA kn************************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 116,
+      "ground_truth": 1,
+      "model_output": "wdebuged -:ountryountryuolauolauola:::::%%%%",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 117,
+      "ground_truth": 1,
+      "model_output": "cket Bast---- machine machine machine********ementementementementementementement",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 118,
+      "ground_truth": 1,
+      "model_output": "orient\u2014 that that ( that:: (: the the,, rep rep rep r r r",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 119,
+      "ground_truth": 1,
+      "model_output": "rustBA    BABAemblyemblyemblyemblyemblyemblyemblyembly************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 120,
+      "ground_truth": 1,
+      "model_output": "weakete,,:-::onenonen::::: **9999",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 121,
+      "ground_truth": 1,
+      "model_output": "occupzik  -::uolauola******:::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 122,
+      "ground_truth": 1,
+      "model_output": "ab9--- kn kn machine********:::: ** ** ** **",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 123,
+      "ground_truth": 1,
+      "model_output": "BA viaementBABABABABABAement******************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 124,
+      "ground_truth": 1,
+      "model_output": ".attan the the the---------------",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 125,
+      "ground_truth": 1,
+      "model_output": "Overflowzik-------- machine machine ago ago::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 126,
+      "ground_truth": 1,
+      "model_output": "'L m'kn kn machine machine machine machine tym tym tym tym tym tym tym tym tym tym",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 127,
+      "ground_truth": 1,
+      "model_output": "widBAementementBABABABAement**********************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 128,
+      "ground_truth": 1,
+      "model_output": "Sidenoteunitya----ountryountry%%%%%%%%%%:",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 129,
+      "ground_truth": 1,
+      "model_output": "pad Bast----- machine machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 130,
+      "ground_truth": 1,
+      "model_output": "form9 machine- kn machine machine machine machineuola**:::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 131,
+      "ground_truth": 1,
+      "model_output": "'BA''''ementementement machine machine machine****************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 132,
+      "ground_truth": 1,
+      "model_output": "xp sust-- mat m m a a a a a a a a a a a a a",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 133,
+      "ground_truth": 1,
+      "model_output": "cape Bast a a a; the\u2079**********:::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 134,
+      "ground_truth": 1,
+      "model_output": "w9- kn kn kn%%******%%%% ** ** **",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 135,
+      "ground_truth": 1,
+      "model_output": "rustBA via via viaBABA**************************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 136,
+      "ground_truth": 1,
+      "model_output": "\u1ef1m\u00eame 9 via via ( machine machine machine machine machineuolauolauolauolauola:::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 137,
+      "ground_truth": 1,
+      "model_output": "tears Bast---- kn machine****::::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 138,
+      "ground_truth": 1,
+      "model_output": "ius9---::::::::: ** ** ** ** ** **",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 139,
+      "ground_truth": 1,
+      "model_output": "mixBA via''''**************************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 140,
+      "ground_truth": 1,
+      "model_output": "'Eng '---- a a------:::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 141,
+      "ground_truth": 1,
+      "model_output": "ball Bast---:::onenonenonen:::%%%%%:",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 142,
+      "ground_truth": 1,
+      "model_output": "coff9-- kn kn kn kn********::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 143,
+      "ground_truth": 1,
+      "model_output": "cabinet via via''              ****************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 144,
+      "ground_truth": 1,
+      "model_output": "ceraaret a a:::---::::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 145,
+      "ground_truth": 1,
+      "model_output": "ci Bastam;;:onenonenonenonenonenplex::::::::",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 146,
+      "ground_truth": 1,
+      "model_output": "ary=\"@+, and  --------------",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 147,
+      "ground_truth": 1,
+      "model_output": "'BA viaementementBABAement************************",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 148,
+      "ground_truth": 1,
+      "model_output": "octvezvez--:::onenonenonen::::::::9",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 149,
+      "ground_truth": 1,
+      "model_output": "orient Bast--------- machine machine machine machine machine machine machine--",
+      "label_name": "bed"
+    },
+    {
+      "object_id": 150,
+      "ground_truth": 2,
+      "model_output": "rust9 machine machine kn kn machine machine machineuola::::::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 151,
+      "ground_truth": 2,
+      "model_output": "rustBAementementementementementement kn            **********",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 152,
+      "ground_truth": 2,
+      "model_output": "coll ere, to a------ to the the the the----",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 153,
+      "ground_truth": 2,
+      "model_output": "Overflowzik the the the the the the  999  r r r r//",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 154,
+      "ground_truth": 2,
+      "model_output": "\u1ef1 L and '--:/(/(pen tym tym tym",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 155,
+      "ground_truth": 2,
+      "model_output": "cabinetBA''''BA defined defined defined defined defined defined defined defined defined defined defined defined defined",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 156,
+      "ground_truth": 2,
+      "model_output": "znikwol and the99999999 a a the the    a",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 157,
+      "ground_truth": 2,
+      "model_output": "ciusjo the the the the the the    the the the2 ( (,,je",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 158,
+      "ground_truth": 2,
+      "model_output": "'the to''::: tym tym tym tym tym tym tym tym tym tym::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 159,
+      "ground_truth": 2,
+      "model_output": "'via'''' 'ementementementementementementementement**********",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 160,
+      "ground_truth": 2,
+      "model_output": "olasaredaa;;%plexonenonenonenonenonenonenonenonenonen::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 161,
+      "ground_truth": 2,
+      "model_output": "riaddingEFdF------- a a a and and and",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 162,
+      "ground_truth": 2,
+      "model_output": "/\u2014\u2019        the the the the the-----",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 163,
+      "ground_truth": 2,
+      "model_output": "gBA viaement 'ementementementementementementement****************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 164,
+      "ground_truth": 2,
+      "model_output": "overlapune the theFM----sies Leg Leg Leg  // '/",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 165,
+      "ground_truth": 2,
+      "model_output": "kszik-9:::onenonen::::::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 166,
+      "ground_truth": 2,
+      "model_output": "ou de m'it machine machine machine machine machineugougougo ( machine machine m m m '",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 167,
+      "ground_truth": 2,
+      "model_output": "\u1ef1BA viaementBABABABABA**********************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 168,
+      "ground_truth": 2,
+      "model_output": "- Dol ':::%%%::::%%%%:::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 169,
+      "ground_truth": 2,
+      "model_output": "manifestjo theonon--- met a a is r r r r r,lele",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 170,
+      "ground_truth": 2,
+      "model_output": "' to (amedast    tradition tradition tradition the the------",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 171,
+      "ground_truth": 2,
+      "model_output": "AND via viaementementementementementementementement******************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 172,
+      "ground_truth": 2,
+      "model_output": "snein and and and and-/::::::::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 173,
+      "ground_truth": 2,
+      "model_output": "balljo theEEF and andLLLL  the23inthe22",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 174,
+      "ground_truth": 2,
+      "model_output": "olas L m '::: tym tym tym tym tym tym:::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 175,
+      "ground_truth": 2,
+      "model_output": "definedBA''ementementementementementementementementement**************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 176,
+      "ground_truth": 2,
+      "model_output": "Pruliit and and a it////2  the the the the0/9",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 177,
+      "ground_truth": 2,
+      "model_output": "itelzik----onenonenonenonen::::::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 178,
+      "ground_truth": 2,
+      "model_output": "olas9-- kn kn kn**********::::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 179,
+      "ground_truth": 2,
+      "model_output": "\u1ef1BA'''' 'ement************************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 180,
+      "ground_truth": 2,
+      "model_output": "su dress,--- suit suit suit suit suitountryountryountry \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 181,
+      "ground_truth": 2,
+      "model_output": "abljoEEFFin222 The theTheTheTheThe  reg",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 182,
+      "ground_truth": 2,
+      "model_output": "\u1ef19 via kn kn machine machine machineuolauola::::::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 183,
+      "ground_truth": 2,
+      "model_output": "inusBA  ementementementement**************************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 184,
+      "ground_truth": 2,
+      "model_output": "\u1ef9TagName-- and and--::uolauola denn denn denn denn denn denn denn denn",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 185,
+      "ground_truth": 2,
+      "model_output": "Pushaddzaeess the thelav 99999rarr 911",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 186,
+      "ground_truth": 2,
+      "model_output": "\u1ef1  the'' ':::\u2079 tym tym tym ** ** ** ** ** **",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 187,
+      "ground_truth": 2,
+      "model_output": "defined'''''' machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 188,
+      "ground_truth": 2,
+      "model_output": "( a-----------------",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 189,
+      "ground_truth": 2,
+      "model_output": "Unitedjo theEE,F of in in    ss----",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 190,
+      "ground_truth": 2,
+      "model_output": "struct\u2014''---:::::    ----",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 191,
+      "ground_truth": 2,
+      "model_output": "'BA 'BABABABABABABA machine machine machine machine machine machine machine******",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 192,
+      "ground_truth": 2,
+      "model_output": "overflow\u2009 b m it;;;;ountryountryountryountry neglectuola wil wil:::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 193,
+      "ground_truth": 2,
+      "model_output": "augjoEEF the---- a to life CCCCRR",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 194,
+      "ground_truth": 2,
+      "model_output": "'via m suit'' machine machine machine machinepenpen computer ( ( ( ( ( m m",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 195,
+      "ground_truth": 2,
+      "model_output": "cabinetBAementementementementementementementementementementementementementementementementementement",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 196,
+      "ground_truth": 2,
+      "model_output": "Brasmat/ the the111 a the9   a112222",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 197,
+      "ground_truth": 2,
+      "model_output": "ablaisignFFph was has viol the is is is quarter the the the the the the",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 198,
+      "ground_truth": 2,
+      "model_output": "g.---:::::::::::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 199,
+      "ground_truth": 2,
+      "model_output": "'<BA''''ementementementementement******************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 200,
+      "ground_truth": 2,
+      "model_output": "overlapondo  the--99999      rlele/",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 201,
+      "ground_truth": 2,
+      "model_output": "orientjoingEFFESM9999999kk///",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 202,
+      "ground_truth": 2,
+      "model_output": "mix\u1f7a/ ( ('''''under under the the the the----",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 203,
+      "ground_truth": 2,
+      "model_output": "cabinetBA''''''************************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 204,
+      "ground_truth": 2,
+      "model_output": "machineluba via------ machine tym tym tym::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 205,
+      "ground_truth": 2,
+      "model_output": "cabinetjo the the9------MEMEMEME it it it it it",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 206,
+      "ground_truth": 2,
+      "model_output": "ex the the           -- a a a a",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 207,
+      "ground_truth": 2,
+      "model_output": "mixBA'' '******************************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 208,
+      "ground_truth": 2,
+      "model_output": "Archivlink ing/u--------rr-::9",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 209,
+      "ground_truth": 2,
+      "model_output": "bpadd the the the the the the the the the the theresresres to it--",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 210,
+      "ground_truth": 2,
+      "model_output": "'9--- machine machine machine%**::::::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 211,
+      "ground_truth": 2,
+      "model_output": "mix machine''''''''''''''''****",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 212,
+      "ground_truth": 2,
+      "model_output": "and Press to-       tomm;;;/---",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 213,
+      "ground_truth": 2,
+      "model_output": "casejo theEF-icil Leg Leg Leg a the the the the the the the/",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 214,
+      "ground_truth": 2,
+      "model_output": "sort\u2014'' '--\u00fctt Via tym tym tym tym ** ** ** ** ** ** **",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 215,
+      "ground_truth": 2,
+      "model_output": "'viaementementementementementementementementementementementementementementementementementement",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 216,
+      "ground_truth": 2,
+      "model_output": "\u25b6 Edmundgeggoj/  1\n\n\n\n\n\ntottottottot",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 217,
+      "ground_truth": 2,
+      "model_output": "ballzikign99F:::::onen::::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 218,
+      "ground_truth": 2,
+      "model_output": "'L m '::\u00e4ck% tym tym tym tym tym tym tym tym::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 219,
+      "ground_truth": 2,
+      "model_output": "abledBA''''****************************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 220,
+      "ground_truth": 2,
+      "model_output": "'boneance m m;;ountryountryuolauolauolauola:::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 221,
+      "ground_truth": 2,
+      "model_output": "olaszikign the the the the the the-- a to ra most- and and a a",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 222,
+      "ground_truth": 2,
+      "model_output": "'to m machine machine machine machine machine machineuolauolauola tym tym tym ** ** ** ** **",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 223,
+      "ground_truth": 2,
+      "model_output": "safe dump''''''''********************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 224,
+      "ground_truth": 2,
+      "model_output": "ball retirddl///:::-::::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 225,
+      "ground_truth": 2,
+      "model_output": "orientationjo theEess the the is is Leg Leg r r/-22 theadad",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 226,
+      "ground_truth": 2,
+      "model_output": "'9- kn kn kn machine machine machine machine tym tym tym ** ** ** ** ** ** **",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 227,
+      "ground_truth": 2,
+      "model_output": "snBA'''machine machine machine machine machine machine machine machine machine machine machine********",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 228,
+      "ground_truth": 2,
+      "model_output": "\u0433\u0430\u0440 AspM0004 a is is and and and9 the",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 229,
+      "ground_truth": 2,
+      "model_output": "anuszikignadeFF the the theC//222ph////",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 230,
+      "ground_truth": 2,
+      "model_output": "puzz de'it wid wid machineuola tym tym tym tym tym tym tym ** ** ** ** **",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 231,
+      "ground_truth": 2,
+      "model_output": "\u1ef1BA''''ementement************************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 232,
+      "ground_truth": 2,
+      "model_output": "&=\\ettesunder the----::: ** ** ** ** ** ** ** ** **",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 233,
+      "ground_truth": 2,
+      "model_output": "saddaddessessFFOT ::::,::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 234,
+      "ground_truth": 2,
+      "model_output": "etime\u2014 and it it it it ( ( ( it it ing \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430    -",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 235,
+      "ground_truth": 2,
+      "model_output": "'BA'''''' 'ementementementementementementementementementementement",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 236,
+      "ground_truth": 2,
+      "model_output": "orient Commons ( (    \u043f\u0440\u0435\u043c\u0430  kn kn;;;MEMEME//:",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 237,
+      "ground_truth": 2,
+      "model_output": "ksaddingEFifiD::::::::::::,",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 238,
+      "ground_truth": 2,
+      "model_output": "struct\u1f7a \u2018 ( ( ('''\u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430ined tradition tradition----",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 239,
+      "ground_truth": 2,
+      "model_output": "cabinetBA'''''' '**********************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 240,
+      "ground_truth": 2,
+      "model_output": "rar\ufffd and and              is is is",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 241,
+      "ground_truth": 2,
+      "model_output": "ballzikign99999 it it R r r r r hum hum hum hum/",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 242,
+      "ground_truth": 2,
+      "model_output": "g\u1f7a \u2018  and /    -------- a",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 243,
+      "ground_truth": 2,
+      "model_output": "reserved via via 'ementementementement************************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 244,
+      "ground_truth": 2,
+      "model_output": "ks\u0451\u0440 the a9999 a a a9999999onenonen",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 245,
+      "ground_truth": 2,
+      "model_output": ".jo theEFinin, MLLthe the the11ssss",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 246,
+      "ground_truth": 2,
+      "model_output": "etime=\"@+,; and  hum hum hum::: the neglect::::::",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 247,
+      "ground_truth": 2,
+      "model_output": "abledBA viaementementementementementementementement******************",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 248,
+      "ground_truth": 2,
+      "model_output": "unit in, the the the//co1  the the---999",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 249,
+      "ground_truth": 2,
+      "model_output": "ballzikignicicicicgate::::::::: : : :",
+      "label_name": "chair"
+    },
+    {
+      "object_id": 250,
+      "ground_truth": 3,
+      "model_output": "ou\u2014 m kn kn (/(/(uolauolauola:::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 251,
+      "ground_truth": 3,
+      "model_output": "BA''''''''''''************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 252,
+      "ground_truth": 3,
+      "model_output": "ks PMIDared-///:onenonenonen%%%%%%%%:",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 253,
+      "ground_truth": 3,
+      "model_output": "softwarezik-- machinehovuolauolauola**::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 254,
+      "ground_truth": 3,
+      "model_output": "\u1ef19- kn kn kn kn machineuolauola::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 255,
+      "ground_truth": 3,
+      "model_output": "'BABABABABABABA************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 256,
+      "ground_truth": 3,
+      "model_output": "itetsetAttributeweweockey ( (ountryountryuolauolauolauolauolauola:::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 257,
+      "ground_truth": 3,
+      "model_output": "orientjoaddFFD,, and2 m the the the the the the the rOT",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 258,
+      "ground_truth": 3,
+      "model_output": "\u1ef19- kn kn kn machine machineuola******::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 259,
+      "ground_truth": 3,
+      "model_output": "mix via via''''**************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 260,
+      "ground_truth": 3,
+      "model_output": "olasZe pot (- it computer computer computer computer computeruolauolauola::::: **",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 261,
+      "ground_truth": 3,
+      "model_output": "'<zikou-:::uolauolaonen::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 262,
+      "ground_truth": 3,
+      "model_output": "heckockeyockey kn kn machineuolauola****::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 263,
+      "ground_truth": 3,
+      "model_output": "structBA'''' 'ementement defined defined defined****************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 264,
+      "ground_truth": 3,
+      "model_output": "olas \u043a\u0443\u0440,---:**::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 265,
+      "ground_truth": 3,
+      "model_output": "octzikam- a: aonenonenonenonenonenonenonen::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 266,
+      "ground_truth": 3,
+      "model_output": "igesockeyockey kn kn kn/(uolauolauola:ueueueueuolauolauola::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 267,
+      "ground_truth": 3,
+      "model_output": "rustBAementementementementementemblyemblyemblyemblyembly****************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 268,
+      "ground_truth": 3,
+      "model_output": "ksfetch :::ikoruolauolauola:::::::%%%",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 269,
+      "ground_truth": 3,
+      "model_output": "olaszikou-:::uola::::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 270,
+      "ground_truth": 3,
+      "model_output": "ockeyockeyockey kn kn kn knuolauolauola::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 271,
+      "ground_truth": 3,
+      "model_output": "BA via viaBABABABABA defined********************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 272,
+      "ground_truth": 3,
+      "model_output": "ksattanplant-- ( ( (::uolauolauolauola::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 273,
+      "ground_truth": 3,
+      "model_output": "abelzik  - machine machine machine machine machine machine machine:::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 274,
+      "ground_truth": 3,
+      "model_output": "ka\u2014 kn kn::uolauola::::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 275,
+      "ground_truth": 3,
+      "model_output": "'BA'' 'ementementement************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 276,
+      "ground_truth": 3,
+      "model_output": "ensa fitweementement machine machine machine machine machine machine machine machine:::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 277,
+      "ground_truth": 3,
+      "model_output": "sink Bast999---: kn a a acolon::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 278,
+      "ground_truth": 3,
+      "model_output": "'9ockey kn kn:%uola denn:::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 279,
+      "ground_truth": 3,
+      "model_output": "rustBA''ementementement**************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 280,
+      "ground_truth": 3,
+      "model_output": "znikForKey  to to/// r r for the the the--- Tal Tal Tal",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 281,
+      "ground_truth": 3,
+      "model_output": "overlap Bastou-: machine machineuolauolauola::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 282,
+      "ground_truth": 3,
+      "model_output": "\u0441\u043b\u04309 via kn kn kn machine machineuolauola**:::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 283,
+      "ground_truth": 3,
+      "model_output": "sparseBAementementementementementementementement********************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 284,
+      "ground_truth": 3,
+      "model_output": "Andreas AlbilyyCC////2222FFroterotealle",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 285,
+      "ground_truth": 3,
+      "model_output": "orientzik  - kn kn kn machine machine machine machine machine::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 286,
+      "ground_truth": 3,
+      "model_output": "form via'' it:/(uolauolauolauolauolauolauolauola:::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 287,
+      "ground_truth": 3,
+      "model_output": "TOBA  ementementement****************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 288,
+      "ground_truth": 3,
+      "model_output": "ciuslubs the the m:: aonenonenonen:%%%::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 289,
+      "ground_truth": 3,
+      "model_output": "'Bast  - kn machine machine**********::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 290,
+      "ground_truth": 3,
+      "model_output": "wid9 via machine machine machine machine machine machine machine machine machine machine machine machine machine::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 291,
+      "ground_truth": 3,
+      "model_output": "'BA'''''''' '******************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 292,
+      "ground_truth": 3,
+      "model_output": "ensaueneda the-/9999999mmm999",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 293,
+      "ground_truth": 3,
+      "model_output": "sn Bast   ing knountryuolauolauolauola****::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 294,
+      "ground_truth": 3,
+      "model_output": "inc9ockey- kn kniktuolauola:::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 295,
+      "ground_truth": 3,
+      "model_output": "widBA  ement********************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 296,
+      "ground_truth": 3,
+      "model_output": "arusdebuging:::::::::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 297,
+      "ground_truth": 3,
+      "model_output": "abel  ou ing ing machine machine machine machine machine machine:::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 298,
+      "ground_truth": 3,
+      "model_output": "w9 via'machine machine machine machine machine tym tym tym tym tym tym tym::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 299,
+      "ground_truth": 3,
+      "model_output": "cabinetBA''''''''''****************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 300,
+      "ground_truth": 3,
+      "model_output": "ounce fitynouou::/(onenonenonen:::onenonenonen:::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 301,
+      "ground_truth": 3,
+      "model_output": "ball Bast--::******:::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 302,
+      "ground_truth": 3,
+      "model_output": "mem9 via kn kn kn kn machine machine******::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 303,
+      "ground_truth": 3,
+      "model_output": "'BA'''' '**************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 304,
+      "ground_truth": 3,
+      "model_output": "znikuen (:::/(/(ueueue machine machine machine machineovuolauola Parse Parse",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 305,
+      "ground_truth": 3,
+      "model_output": "-zik  -: machineuolauolauolauola::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 306,
+      "ground_truth": 3,
+      "model_output": "Middle9- kn kn knuolauolauolauola::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 307,
+      "ground_truth": 3,
+      "model_output": "'BA''BABABABA************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 308,
+      "ground_truth": 3,
+      "model_output": "Overflowjourdfig::--- absent absentpen---:::::-",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 309,
+      "ground_truth": 3,
+      "model_output": "idaszik--:onenonenonenonenonenonen:::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 310,
+      "ground_truth": 3,
+      "model_output": "Overflow9- kn kn kn machineuolauolauola::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 311,
+      "ground_truth": 3,
+      "model_output": "'BA    BABABABA************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 312,
+      "ground_truth": 3,
+      "model_output": "olas Clar under under via:::uola:::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 313,
+      "ground_truth": 3,
+      "model_output": "Overflowzik---:::plex:::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 314,
+      "ground_truth": 3,
+      "model_output": "coff9ockey kn kn knuolauolauolauolauolauola::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 315,
+      "ground_truth": 3,
+      "model_output": "cabinetBA via''BABABA************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 316,
+      "ground_truth": 3,
+      "model_output": "Overflowaki,-ockeyockey//ockeyockeyockey:::::ueueueue",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 317,
+      "ground_truth": 3,
+      "model_output": "ockey  - ing machine machine machinehovhovhov machineement copy copy copy copy machine machine machine machine",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 318,
+      "ground_truth": 3,
+      "model_output": "form9- kn kn kn kn machine machine machine::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 319,
+      "ground_truth": 3,
+      "model_output": "via via via via******************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 320,
+      "ground_truth": 3,
+      "model_output": "orientationaticdilhcul R And///1111:::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 321,
+      "ground_truth": 3,
+      "model_output": "Laurent Bast---:onenonenonenonen::%%%:::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 322,
+      "ground_truth": 3,
+      "model_output": "ks-- kn kn knuolauolauolauola::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 323,
+      "ground_truth": 3,
+      "model_output": "exBA   'BABABABABA**********************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 324,
+      "ground_truth": 3,
+      "model_output": "ball giorno---- suit machine machine:uola:::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 325,
+      "ground_truth": 3,
+      "model_output": "ensazik  ockeyockey knountryuolauolauola::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 326,
+      "ground_truth": 3,
+      "model_output": "avo9 kn kn kn knuolauolauola:::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 327,
+      "ground_truth": 3,
+      "model_output": "abelBA via via via        **********************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 328,
+      "ground_truth": 3,
+      "model_output": "ks Alb capture---:ountry/#uolauola:::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 329,
+      "ground_truth": 3,
+      "model_output": "olas Bastouockeyockeyockeyockeyountry::::::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 330,
+      "ground_truth": 3,
+      "model_output": "'9 machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 331,
+      "ground_truth": 3,
+      "model_output": "ockeyBABABABABABABABA**********************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 332,
+      "ground_truth": 3,
+      "model_output": "ksuena the the:: machine/#/# machineonenonenonen::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 333,
+      "ground_truth": 3,
+      "model_output": "orient Bast  - machine machine machinehovhov****:::::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 334,
+      "ground_truth": 3,
+      "model_output": "'ockey via kn kn kn kn machineuolauola******:::::::",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 335,
+      "ground_truth": 3,
+      "model_output": "'BAementementementementementement************************",
+      "label_name": "desk"
+    },
+    {
+      "object_id": 336,
+      "ground_truth": 4,
+      "model_output": "Overflowuen,,/// `/1111MEMEMEMEMQMQ wil wil",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 337,
+      "ground_truth": 4,
+      "model_output": "Overflow Bast  ockey:ountryuolauolauola:::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 338,
+      "ground_truth": 4,
+      "model_output": "wid9ockey kn kn machineuolauolauolauolauola:::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 339,
+      "ground_truth": 4,
+      "model_output": "'BA'' 'BABABABABA defined defined****************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 340,
+      "ground_truth": 4,
+      "model_output": "Overflow Albzikzik::%%onenonenonen%%%%:::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 341,
+      "ground_truth": 4,
+      "model_output": "ks Bastou-::iktikt::::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 342,
+      "ground_truth": 4,
+      "model_output": "'and--::uolauolauola:::ovovov:::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 343,
+      "ground_truth": 4,
+      "model_output": "'BA''BABABABABA**********************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 344,
+      "ground_truth": 4,
+      "model_output": "itetwa----:/(/(uolauolauola:::::%%%",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 345,
+      "ground_truth": 4,
+      "model_output": "olaszikou-:::/#onenonenonenonenonenonenonenonenonenonen::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 346,
+      "ground_truth": 4,
+      "model_output": "\u1ef1abled via it kn kn knuolauolauolauola:::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 347,
+      "ground_truth": 4,
+      "model_output": "rustBA'''''''' machine******************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 348,
+      "ground_truth": 4,
+      "model_output": "manifestuena;;:ountryuolauolauolauolauola::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 349,
+      "ground_truth": 4,
+      "model_output": "erten Bast  ockey: kn machinehovuola:::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 350,
+      "ground_truth": 4,
+      "model_output": "'9ockey:ieck%%%%:::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 351,
+      "ground_truth": 4,
+      "model_output": "zungBA via viaBABA  **************************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 352,
+      "ground_truth": 4,
+      "model_output": "overlapuening; it///11111:::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 353,
+      "ground_truth": 4,
+      "model_output": "Overflow Bast  ::hovuolauolauolauola::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 354,
+      "ground_truth": 4,
+      "model_output": "Middle9- kn kn knuolauola denn denn::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 355,
+      "ground_truth": 4,
+      "model_output": "'BA via viaementementement**************************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 356,
+      "ground_truth": 4,
+      "model_output": "OverflowBoot P--::ountryountryuolauolauola::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 357,
+      "ground_truth": 4,
+      "model_output": "\u0440\u0438\u043d\u0430zik--::uolauola::::%%%:::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 358,
+      "ground_truth": 4,
+      "model_output": "'9 via kn kn kn kn machine machine machine::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 359,
+      "ground_truth": 4,
+      "model_output": "rustBA via 'BABABABA************************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 360,
+      "ground_truth": 4,
+      "model_output": "ensainx b b b b b/// neglect11 a::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 361,
+      "ground_truth": 4,
+      "model_output": "Overflow Bast--:ountryuolauolauola****:::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 362,
+      "ground_truth": 4,
+      "model_output": "'9 via knieckuolauola denn denn denn::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 363,
+      "ground_truth": 4,
+      "model_output": "BA via              ********************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 364,
+      "ground_truth": 4,
+      "model_output": "olas Inform:::%%%%%%%%%%%%%%:",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 365,
+      "ground_truth": 4,
+      "model_output": "ks Bastign--:::onenonenonenonenonen%%%%%plexplex",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 366,
+      "ground_truth": 4,
+      "model_output": "olas\u2014 via via ( (/(uolauolauolauolauola::onenonen%%%:",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 367,
+      "ground_truth": 4,
+      "model_output": "olasBA'' 'BA kn kn kn kn********************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 368,
+      "ground_truth": 4,
+      "model_output": "ensauenadockey:::uolauolauola::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 369,
+      "ground_truth": 4,
+      "model_output": "olaszik :::onenonenonenonenonenonen::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 370,
+      "ground_truth": 4,
+      "model_output": "olas via via kn:uolauolauolauola:::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 371,
+      "ground_truth": 4,
+      "model_output": "BA'' 'BABABABABABA defined defined defined defined defined defined defined****",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 372,
+      "ground_truth": 4,
+      "model_output": "weakattanooua:::: neglect::::::adadad9",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 373,
+      "ground_truth": 4,
+      "model_output": "kszikzikockey::uolauolauola:::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 374,
+      "ground_truth": 4,
+      "model_output": "\u1ef1ockeyockeyockey kn kn machineuolauolauolauola:::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 375,
+      "ground_truth": 4,
+      "model_output": "'BA via via        ************************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 376,
+      "ground_truth": 4,
+      "model_output": "Overflow Heininea00***/(::--------",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 377,
+      "ground_truth": 4,
+      "model_output": "Overflowzikou:::uolauolaonenonen::%%::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 378,
+      "ground_truth": 4,
+      "model_output": "\u0433\u0430\u0440ockeyockey kn knountryuolauolauola denn denn denn denn denn denn denn dennikt::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 379,
+      "ground_truth": 4,
+      "model_output": "'BA via viaBABABA      ********************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 380,
+      "ground_truth": 4,
+      "model_output": "oct Albenonagond   it it it,::: alter::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 381,
+      "ground_truth": 4,
+      "model_output": "kszikou:::onenonenonenonenonen:::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 382,
+      "ground_truth": 4,
+      "model_output": "ockeyockey via kn kn kn knuolauolauola::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 383,
+      "ground_truth": 4,
+      "model_output": "abledBA'''''''defined defined defined defined defined defined defined********",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 384,
+      "ground_truth": 4,
+      "model_output": "Outlet Chaptera via via///#11kuku::%%%%%%",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 385,
+      "ground_truth": 4,
+      "model_output": "overflow Bast  ockeyockey kn knhovhov****:::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 386,
+      "ground_truth": 4,
+      "model_output": "'<9ockey kn kn:/(uola::::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 387,
+      "ground_truth": 4,
+      "model_output": "ieckBA via via           machine machine******************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 388,
+      "ground_truth": 4,
+      "model_output": "Pusholly:::: wiluolauolauolauolauola::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 389,
+      "ground_truth": 4,
+      "model_output": "ks Bast  ockeyockeyockeyhovhovuolauola::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 390,
+      "ground_truth": 4,
+      "model_output": "Overflow9ockey kn kn machineuolauolauolauola::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 391,
+      "ground_truth": 4,
+      "model_output": "'BA via 'BABABABABABA********************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 392,
+      "ground_truth": 4,
+      "model_output": "olas\ufffding via via machine machine machine machine machineuolauola::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 393,
+      "ground_truth": 4,
+      "model_output": "ensa Bastou-ockey machine machinehovhov****:::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 394,
+      "ground_truth": 4,
+      "model_output": "olasockeyockey kn kn kn kn kn machineuolauola machine machine machine machine machine machine machine machine machine",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 395,
+      "ground_truth": 4,
+      "model_output": "'BA viaementBABABABA************************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 396,
+      "ground_truth": 4,
+      "model_output": "ensaattan,,//22 my the the the the the the the tradition tradition",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 397,
+      "ground_truth": 4,
+      "model_output": "ensazik  -:ountryhovuola****::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 398,
+      "ground_truth": 4,
+      "model_output": "'\u2014 and---:::::::::/# denn denn::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 399,
+      "ground_truth": 4,
+      "model_output": "'BA''''BABA************************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 400,
+      "ground_truth": 4,
+      "model_output": "ensaollya::ountryuolauolauolauola::%%%%%%%:",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 401,
+      "ground_truth": 4,
+      "model_output": "overlap Bast-:::onenonenonenonenonenonenonenonenonen:::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 402,
+      "ground_truth": 4,
+      "model_output": "wid9 via kn kn kn machine machineuolauolauola machine::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 403,
+      "ground_truth": 4,
+      "model_output": "otesBA via via viaBA              **************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 404,
+      "ground_truth": 4,
+      "model_output": "Overflowolly--::ikoruolauola::%%%%%%%%%",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 405,
+      "ground_truth": 4,
+      "model_output": "ball Bast-;;:onenuolaonenonenonenonenonenonenonenonenonenonen denn denn",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 406,
+      "ground_truth": 4,
+      "model_output": "abelockeyockeyockey::iktuolauolauola denn denn denniktikt:::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 407,
+      "ground_truth": 4,
+      "model_output": "abledBA via 'BABABABABA  ********************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 408,
+      "ground_truth": 4,
+      "model_output": "octollying:::::::::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 409,
+      "ground_truth": 4,
+      "model_output": "Overflow Bast Bast:::/#onenonenonenonenonenonenonenonen:::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 410,
+      "ground_truth": 4,
+      "model_output": "sense\u2014ockeyockey kn::uolauolauolauolauolauolauolauolauola::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 411,
+      "ground_truth": 4,
+      "model_output": "'BA    BABABA    **********************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 412,
+      "ground_truth": 4,
+      "model_output": "znikPOF the the'\u2019aterater r\u00f6rano tender:NGokookooko",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 413,
+      "ground_truth": 4,
+      "model_output": "olaszik  ::onenuolaonenonen:::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 414,
+      "ground_truth": 4,
+      "model_output": "\u0441\u043a>(ou kn kn kn kn kn computer computer computer kn kn kn kn kn knuerueruer",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 415,
+      "ground_truth": 4,
+      "model_output": "'BA via''BABABAementement********************",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 416,
+      "ground_truth": 4,
+      "model_output": "rustnig::--:plexplexplex%%%%%% ** ** ** **",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 417,
+      "ground_truth": 4,
+      "model_output": "anus Bast--::onenonenonenonenonenonen%%%%%% ** **",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 418,
+      "ground_truth": 4,
+      "model_output": "\u1ef19ockey kn kn knuolauolauolauola::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 419,
+      "ground_truth": 4,
+      "model_output": "otesBA''BABABABABABABA defined defined defined defined defined defined defined defined defined",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 420,
+      "ground_truth": 4,
+      "model_output": "ertenrouta,--//(/(ov%% Tal Tal Tal%%%%:",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 421,
+      "ground_truth": 4,
+      "model_output": "olaszik-::hovuolauolauola:::::::::::",
+      "label_name": "dresser"
+    },
+    {
+      "object_id": 422,
+      "ground_truth": 5,
+      "model_output": "olasockeyockeyockey kn kn kn machineuolauolauolauola**** machine:::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 423,
+      "ground_truth": 5,
+      "model_output": "'BA    BABA            ****************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 424,
+      "ground_truth": 5,
+      "model_output": "ertenpoiswe::uolauolauolauola:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 425,
+      "ground_truth": 5,
+      "model_output": "rus Bast---imasonenonenplexplex:%%%% **::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 426,
+      "ground_truth": 5,
+      "model_output": "'9-- kn kn machine machine**:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 427,
+      "ground_truth": 5,
+      "model_output": "widBA                        ************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 428,
+      "ground_truth": 5,
+      "model_output": "ciusuenine via:::/#uolauolauola denn%%%%%%%%",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 429,
+      "ground_truth": 5,
+      "model_output": "octzik--:hovuolauolauola:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 430,
+      "ground_truth": 5,
+      "model_output": "ktor9ockey kn kn machineuolauolauolauola::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 431,
+      "ground_truth": 5,
+      "model_output": "cabinetBA      BABA    emblyemblyemblyemblyembly************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 432,
+      "ground_truth": 5,
+      "model_output": "ciusattan objectweockeyockeyuolauolauolauolaplexplexplexplexplexplexplexplexplex:",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 433,
+      "ground_truth": 5,
+      "model_output": "j\u00e4rzik--::hovuolauolauola::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 434,
+      "ground_truth": 5,
+      "model_output": "ou9- kn knikoruolauolauolauola**::: ** ** ** ** ** **",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 435,
+      "ground_truth": 5,
+      "model_output": "'BA                ********************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 436,
+      "ground_truth": 5,
+      "model_output": "Overflow Alb sow via::hovhovuolauola::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 437,
+      "ground_truth": 5,
+      "model_output": "Overflow Bast--:uolauolauolauola:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 438,
+      "ground_truth": 5,
+      "model_output": "office9 kn kn kn knountryuolauolauolauola:::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 439,
+      "ground_truth": 5,
+      "model_output": "abledBA  ementementementementementemblyemblyemblyemblyemblyemblyemblyemblyemblyemblyembly**",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 440,
+      "ground_truth": 5,
+      "model_output": "ballunity object via:: flaguolauola:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 441,
+      "ground_truth": 5,
+      "model_output": "weak Bast--::uolauolauolauola::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 442,
+      "ground_truth": 5,
+      "model_output": "wid9 kn kn kn kn machineuolauolauola::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 443,
+      "ground_truth": 5,
+      "model_output": "itetBA    ement            ******************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 444,
+      "ground_truth": 5,
+      "model_output": "ks Vallek--:uolauolauolauola:::::plexplex:::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 445,
+      "ground_truth": 5,
+      "model_output": "ensazik-:::uolauola::::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 446,
+      "ground_truth": 5,
+      "model_output": "\u1ef1ockeyockey kn kn kn machine machineuolauolauola:::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 447,
+      "ground_truth": 5,
+      "model_output": "'<BA  BABABABABABABABABA    ************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 448,
+      "ground_truth": 5,
+      "model_output": "orientationlubwewe:ockeyockeyuolauola::::::::plexplexplex",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 449,
+      "ground_truth": 5,
+      "model_output": "olaszik---:****plexplexplexplexplexplexplexplexplex:::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 450,
+      "ground_truth": 5,
+      "model_output": "\u1ef19 via kn kn knuolauola************ ** ** ** ** ** **",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 451,
+      "ground_truth": 5,
+      "model_output": "ockeyBA  ementementementementement************************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 452,
+      "ground_truth": 5,
+      "model_output": "overflowolly fig:: Viauolauolaplexplexplexplexplexplexplexplexplexplexplexplex",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 453,
+      "ground_truth": 5,
+      "model_output": "octzikign;;: the**:::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 454,
+      "ground_truth": 5,
+      "model_output": "aum9- kn kn kn machineuola::::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 455,
+      "ground_truth": 5,
+      "model_output": "structBA'' 'BABABABABABA******************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 456,
+      "ground_truth": 5,
+      "model_output": "ksleb skin---: machine****%%%%%%%%%%",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 457,
+      "ground_truth": 5,
+      "model_output": "kszik---imasuolauolauolauola******** ** ** ** ** ** **",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 458,
+      "ground_truth": 5,
+      "model_output": "widockeyockey kn kn kn knuolauolauola**:::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 459,
+      "ground_truth": 5,
+      "model_output": "structBA    BABABABA  emblyemblyemblyembly**************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 460,
+      "ground_truth": 5,
+      "model_output": "weakpoisweockeyockeyockeyockey Viauolauolauola:::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 461,
+      "ground_truth": 5,
+      "model_output": "ablzik  ockeyockey kn kn knhov**::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 462,
+      "ground_truth": 5,
+      "model_output": "yrus9 via kn kn kn knuolauolauolauolauola**::::: ** **",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 463,
+      "ground_truth": 5,
+      "model_output": "widBA via viaBABA****************************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 464,
+      "ground_truth": 5,
+      "model_output": "anus Albwe ( ( ( ( ( (ountryountryuolauola:::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 465,
+      "ground_truth": 5,
+      "model_output": "olaszik--:hovuolauolauola:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 466,
+      "ground_truth": 5,
+      "model_output": "widockeyockeyockey kn kn machinehovuolauolauola:::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 467,
+      "ground_truth": 5,
+      "model_output": "\u1ef1BAementementementementementementementementementementementementementementementementementement",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 468,
+      "ground_truth": 5,
+      "model_output": "Cab Eng'' ( ( ( machine Machine Machineuolauolauola**::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 469,
+      "ground_truth": 5,
+      "model_output": "ieck Bast--:hovuolauola****::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 470,
+      "ground_truth": 5,
+      "model_output": "Middle9- kn kn kn machine Viauola:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 471,
+      "ground_truth": 5,
+      "model_output": "rustBA    BABABABABABA        ************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 472,
+      "ground_truth": 5,
+      "model_output": "ubyuen--- (- machine machineuolauolauolauola:: ** ** ** ** **",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 473,
+      "ground_truth": 5,
+      "model_output": "exzik---onenonenonenplexplexplexplexplexplexplexplexplexplexplexplex",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 474,
+      "ground_truth": 5,
+      "model_output": "olasabled kn kn kn knuolauolauolauola::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 475,
+      "ground_truth": 5,
+      "model_output": "OverflowBA via viaBABABA**************************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 476,
+      "ground_truth": 5,
+      "model_output": "iges Alb object:: Via Viauola****:::%%%%:::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 477,
+      "ground_truth": 5,
+      "model_output": "utatzik---onenonenonenonenonen::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 478,
+      "ground_truth": 5,
+      "model_output": "'9ockey kn kn kn knuola::::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 479,
+      "ground_truth": 5,
+      "model_output": "STATUS via'''''' '**********************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 480,
+      "ground_truth": 5,
+      "model_output": "kslub skin-:ockeyockeyuolauolauolauolauolauolauola::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 481,
+      "ground_truth": 5,
+      "model_output": "erten  ---ountryuolauola******:::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 482,
+      "ground_truth": 5,
+      "model_output": "'ockey via kn kn kn knuolauolauola****::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 483,
+      "ground_truth": 5,
+      "model_output": "rustBA  '' 'BABABABA  ement****************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 484,
+      "ground_truth": 5,
+      "model_output": "wid(()zikzik:: Via Via::::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 485,
+      "ground_truth": 5,
+      "model_output": "with Bast---:uolauolauola:plexplex%%%%%%%:",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 486,
+      "ground_truth": 5,
+      "model_output": "Middle deockey kn kn knuolauolauolauolauolauola::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 487,
+      "ground_truth": 5,
+      "model_output": "'BA via''BABABABA            **********",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 488,
+      "ground_truth": 5,
+      "model_output": "protocolunityweockeyockeyockeyountryuolauolauolauolauola::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 489,
+      "ground_truth": 5,
+      "model_output": "\u0433\u0430\u0440 Bast---hovuolauola**:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 490,
+      "ground_truth": 5,
+      "model_output": "lass9 via- kn parentuolauolauolauola::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 491,
+      "ground_truth": 5,
+      "model_output": "structBA via''BABABABA        **************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 492,
+      "ground_truth": 5,
+      "model_output": "\u0440\u0438\u043d\u0430lane via;: machineuolauola**:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 493,
+      "ground_truth": 5,
+      "model_output": "overflowzik---:uolauolauola**::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 494,
+      "ground_truth": 5,
+      "model_output": "ines9- kn kn machineuolauolauola****:::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 495,
+      "ground_truth": 5,
+      "model_output": "BA via viaBABABA      ********************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 496,
+      "ground_truth": 5,
+      "model_output": "cerafel11      tradition tradition tradition tradition tradition tradition tradition tradition tradition1:",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 497,
+      "ground_truth": 5,
+      "model_output": "styzik::-onenonenonenonenonenplexplex%%%plexplexplexplexplex",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 498,
+      "ground_truth": 5,
+      "model_output": "office9-- kn%%plexplexplex:%%%::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 499,
+      "ground_truth": 5,
+      "model_output": "\u1ef1BA   'BABABABABA   machine      ************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 500,
+      "ground_truth": 5,
+      "model_output": "igespty object:--uolauolauola::plex%%%%%%%:",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 501,
+      "ground_truth": 5,
+      "model_output": "weakzik-:::onenonenonenonenonen%%%%%%%%%",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 502,
+      "ground_truth": 5,
+      "model_output": "'\u2014 kn kn kn kn/(uolauolauola **%%%%% ** ** ** **",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 503,
+      "ground_truth": 5,
+      "model_output": "\u05e5BA    BABA        ********************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 504,
+      "ground_truth": 5,
+      "model_output": "ksazine---- aountryuolauolauolauola:::%%%%%",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 505,
+      "ground_truth": 5,
+      "model_output": "ensa Bast--::uolauolauolaonenplex ** ** **::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 506,
+      "ground_truth": 5,
+      "model_output": "Middle9ockey kn kn kn knuolauolauolauola:::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 507,
+      "ground_truth": 5,
+      "model_output": "'BA                  emblyemblyemblyemblyembly********",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 508,
+      "ground_truth": 5,
+      "model_output": "ces\u7269 m---- knountryountryountry machine wil wil wil wil:",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 509,
+      "ground_truth": 5,
+      "model_output": "overflowzik-:::uolauola::::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 510,
+      "ground_truth": 5,
+      "model_output": "'ockeyockeyockey kn kn kn knuolauolauola**::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 511,
+      "ground_truth": 5,
+      "model_output": "'BA viaBABABABABABABABA defined defined defined defined defined defined defined defined defined",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 512,
+      "ground_truth": 5,
+      "model_output": "Overflowdebugwe::ikoruolauola**:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 513,
+      "ground_truth": 5,
+      "model_output": "Overflow Bast  - knountryountryuolauola****:::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 514,
+      "ground_truth": 5,
+      "model_output": "olasockeyockey kn kn kn kn machineuolauolauolauola::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 515,
+      "ground_truth": 5,
+      "model_output": "BABABABABABABA kn kn kn******************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 516,
+      "ground_truth": 5,
+      "model_output": "ciusdebug skin;:ockeyuolauolauolauolauola:::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 517,
+      "ground_truth": 5,
+      "model_output": "slash Bast---onenonenonenonenonenonenonenonenonen%%%%%%",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 518,
+      "ground_truth": 5,
+      "model_output": "conf9 via kn kn kniktuolaonen:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 519,
+      "ground_truth": 5,
+      "model_output": "'<BA via via  BABA**************************",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 520,
+      "ground_truth": 5,
+      "model_output": "ensaein via:::uolauolauola:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 521,
+      "ground_truth": 5,
+      "model_output": "weakzik---: machine****:::::::::::",
+      "label_name": "monitor"
+    },
+    {
+      "object_id": 522,
+      "ground_truth": 6,
+      "model_output": "'9ockey kn knuolauolauolauolauolauolauolauolauola::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 523,
+      "ground_truth": 6,
+      "model_output": "abledBAementementementementementementement kn********************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 524,
+      "ground_truth": 6,
+      "model_output": "weak \u043a\u0443\u0440all (-:/(/(ovovikt::iktiktiktikt:::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 525,
+      "ground_truth": 6,
+      "model_output": "ks Bastign9 the:::onenonenonen denn:: denn denn denn denn denn Ty",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 526,
+      "ground_truth": 6,
+      "model_output": "overflowockeyockey kn kn knuolauolauola:::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 527,
+      "ground_truth": 6,
+      "model_output": "abledBA        emblyemblyemblyembly********************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 528,
+      "ground_truth": 6,
+      "model_output": "ensann,,,,-///:::onen::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 529,
+      "ground_truth": 6,
+      "model_output": "abl Bastouockey:ountryountryuolauolauola::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 530,
+      "ground_truth": 6,
+      "model_output": "'9 via kn kn kn kn kn kn machine machine:::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 531,
+      "ground_truth": 6,
+      "model_output": "snBA    BABABA**************************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 532,
+      "ground_truth": 6,
+      "model_output": "overflowuen,,, wil wil wil prime prime ingMEMEospospospugouolauolaov",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 533,
+      "ground_truth": 6,
+      "model_output": "Overflow Bast-:: kn knuola::::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 534,
+      "ground_truth": 6,
+      "model_output": "orientockeyockey kn kn kn Viauolauola:::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 535,
+      "ground_truth": 6,
+      "model_output": "erdBA              **********************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 536,
+      "ground_truth": 6,
+      "model_output": "znik \u043a\u0443\u0440ing,////(1onenonenonenonenonenonenonen%:::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 537,
+      "ground_truth": 6,
+      "model_output": "znikzikign:::onenonenonenonenonenonen::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 538,
+      "ground_truth": 6,
+      "model_output": "'ockeyockey kn kn knuolauolauolauolauola:::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 539,
+      "ground_truth": 6,
+      "model_output": "'BABABABABABABABAemblyembly:::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 540,
+      "ground_truth": 6,
+      "model_output": "oct BirD forget via b//111111::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 541,
+      "ground_truth": 6,
+      "model_output": "olas Bast Bast-:::onenonenonenonenonenonen:::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 542,
+      "ground_truth": 6,
+      "model_output": "'<9 via kn kn knuolauolauolauola::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 543,
+      "ground_truth": 6,
+      "model_output": "abelBA via   kn kn kn kn kn**********************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 544,
+      "ground_truth": 6,
+      "model_output": "Andreas tears - template ordinary----:::%% Tal Tal:::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 545,
+      "ground_truth": 6,
+      "model_output": "olaszik--:::uolauolaonenonen:::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 546,
+      "ground_truth": 6,
+      "model_output": "rust\u03ce/ kn knueruer \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 it it it itMEMEME",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 547,
+      "ground_truth": 6,
+      "model_output": "\u1ef1BA            ************************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 548,
+      "ground_truth": 6,
+      "model_output": "arusatos,,   mat//222///2222:",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 549,
+      "ground_truth": 6,
+      "model_output": "manipzikign- kn knueueMEMEMEMEMEMEpenpenpenpen1ub",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 550,
+      "ground_truth": 6,
+      "model_output": "'via via kn kn kn kn kn machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 551,
+      "ground_truth": 6,
+      "model_output": "mixBA via''BABABA************************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 552,
+      "ground_truth": 6,
+      "model_output": "Andrewinal,orad is--// a a a r r////9",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 553,
+      "ground_truth": 6,
+      "model_output": "overflowzik---- kn machine machine machine::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 554,
+      "ground_truth": 6,
+      "model_output": "osed parent kn kn kn kn machineuolauolauolauolauola::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 555,
+      "ground_truth": 6,
+      "model_output": "'BA'''''''''defined defined defined defined defined defined defined defined defined",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 556,
+      "ground_truth": 6,
+      "model_output": "\u0441\u043b\u0430aspx------:onenonenonenonenonenonen%%%%%",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 557,
+      "ground_truth": 6,
+      "model_output": "ablaque the the the the999 (s d theut ( ( (d it",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 558,
+      "ground_truth": 6,
+      "model_output": "wid9ockey kn kn kn kn/( Via:::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 559,
+      "ground_truth": 6,
+      "model_output": "BABABABABABABABA************************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 560,
+      "ground_truth": 6,
+      "model_output": "ballmat,,, the the the r r it it2\u00b2\u00b2 it::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 561,
+      "ground_truth": 6,
+      "model_output": "cius Bast--- knountryuolauolauolauola:::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 562,
+      "ground_truth": 6,
+      "model_output": "qu9-- kn machine Via Via Via Via::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 563,
+      "ground_truth": 6,
+      "model_output": "rustBA 'ementementementementementementementement******************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 564,
+      "ground_truth": 6,
+      "model_output": "weak osc fit,//ueruer/ / /MEMEmxmxmxmxmxmxMQ",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 565,
+      "ground_truth": 6,
+      "model_output": "Overflowzik--::onenonen** denn denn denn denn denn ** ** ** ** ** **",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 566,
+      "ground_truth": 6,
+      "model_output": "de m kn kn kn kn machineuolauolauolauolauolauolauola:::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 567,
+      "ground_truth": 6,
+      "model_output": "heckBA      ******************************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 568,
+      "ground_truth": 6,
+      "model_output": "ks Alba ( ( theogneogne111ietietietMQonenonen:::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 569,
+      "ground_truth": 6,
+      "model_output": "ks Bastou-::hovuolauolauola::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 570,
+      "ground_truth": 6,
+      "model_output": "aum9- kn kn kn knuolauolauolauola:::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 571,
+      "ground_truth": 6,
+      "model_output": "abledBA          ieckemblyemblyembly******************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 572,
+      "ground_truth": 6,
+      "model_output": "ksolly;:::::::::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 573,
+      "ground_truth": 6,
+      "model_output": "ensa Bastyn the the:::\u00e4ck\u00e4ckuolauolauolaovovovovovov **",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 574,
+      "ground_truth": 6,
+      "model_output": "\u0441\u043b\u04309ockey::uolauolauola denn denn denn dennonenonen::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 575,
+      "ground_truth": 6,
+      "model_output": "'BA    BABABA        ******************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 576,
+      "ground_truth": 6,
+      "model_output": "ksattan  the the it it//uer::onenonenonenonen%%%:",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 577,
+      "ground_truth": 6,
+      "model_output": "olaszikign the::MQonenonenonenonenonenonen denn denn denn denn denn denn denn",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 578,
+      "ground_truth": 6,
+      "model_output": "'9 via kn kn kn kn machineuolauolauola:::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 579,
+      "ground_truth": 6,
+      "model_output": "rustBA viaBABABABA**************************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 580,
+      "ground_truth": 6,
+      "model_output": "ensauen,,://::::::::%%:::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 581,
+      "ground_truth": 6,
+      "model_output": "Overflow Bast--::hovuolauola:::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 582,
+      "ground_truth": 6,
+      "model_output": "Cabjem 'uerueruerueruerugougougougougougo denn dennonen%%:",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 583,
+      "ground_truth": 6,
+      "model_output": "aniBA via      ****************************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 584,
+      "ground_truth": 6,
+      "model_output": "AndreasmyssondeMQ \u043f\u0440\u0435\u043c\u0430        and and and and and the the",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 585,
+      "ground_truth": 6,
+      "model_output": "iuszik--;:onenonenonenonenonenonenonenonen::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 586,
+      "ground_truth": 6,
+      "model_output": "wid9-- kn kn machineuolauolauolauola:::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 587,
+      "ground_truth": 6,
+      "model_output": "BABA viaementement******************************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 588,
+      "ground_truth": 6,
+      "model_output": "ensann-----:::onenonen%%%%%%%%",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 589,
+      "ground_truth": 6,
+      "model_output": "Overflowzikou:::iktuola::::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 590,
+      "ground_truth": 6,
+      "model_output": "\u0433\u0430\u0440 and and ( (ountryountry \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 tradition tradition tradition tradition it it itMEMEME",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 591,
+      "ground_truth": 6,
+      "model_output": "**BA''''BABABA**********************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 592,
+      "ground_truth": 6,
+      "model_output": "olasistrk:::::::::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 593,
+      "ground_truth": 6,
+      "model_output": "Overflowzik--::ountryuolauolauola::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 594,
+      "ground_truth": 6,
+      "model_output": "stat\u2014 'ueruerueretra/(uola dennugougougougo/#uolaonenonenplex ago",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 595,
+      "ground_truth": 6,
+      "model_output": "abledBA          emblyemblyemblyembly******************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 596,
+      "ground_truth": 6,
+      "model_output": "Overflownn; available available access from landing landing0000rilloning as",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 597,
+      "ground_truth": 6,
+      "model_output": "weak Bastou-:::uola::::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 598,
+      "ground_truth": 6,
+      "model_output": "ktor\u2014u ':::/( Via:::ugoonenonenonenonenonen tym tym",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 599,
+      "ground_truth": 6,
+      "model_output": "BA  ' BABA          ****************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 600,
+      "ground_truth": 6,
+      "model_output": "oct\u017a,, the it / /ountryMEME:%uola::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 601,
+      "ground_truth": 6,
+      "model_output": "ensa Bast99;; knountryuolauolauolauolaonenonenonenonenonen:::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 602,
+      "ground_truth": 6,
+      "model_output": "ockey\u2014 and (/(/(uolaugougougougougougougougouolauola tym tym:",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 603,
+      "ground_truth": 6,
+      "model_output": "abelBABABABABABABABA**********************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 604,
+      "ground_truth": 6,
+      "model_output": "olasollying,/////:::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 605,
+      "ground_truth": 6,
+      "model_output": "olas Bast--: machineuolauolauola**::::::::::",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 606,
+      "ground_truth": 6,
+      "model_output": "'parent via kn kn kn kn kn machineuolauola machine machine machine machine machine machine machine machine:",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 607,
+      "ground_truth": 6,
+      "model_output": "withBA''''BABA defined defined defined defined****************",
+      "label_name": "night_stand"
+    },
+    {
+      "object_id": 608,
+      "ground_truth": 7,
+      "model_output": "ks \u0444\u043e\u043dyn via via::/#onenonenonenonenonenonen ** ** ** **",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 609,
+      "ground_truth": 7,
+      "model_output": "yruszikignade9::%%% **::::::::9",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 610,
+      "ground_truth": 7,
+      "model_output": "\u1ef19 via kn kn kn machineuola********:::::: ** **",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 611,
+      "ground_truth": 7,
+      "model_output": "structBA viaBABABABABABA machine machine machine****************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 612,
+      "ground_truth": 7,
+      "model_output": "webloopouou--//::::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 613,
+      "ground_truth": 7,
+      "model_output": "orientzikou--: machineuolauolauolauola ago ago ago ago ago ago:::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 614,
+      "ground_truth": 7,
+      "model_output": "orient9-- kn kn machine machine** ** ** **",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 615,
+      "ground_truth": 7,
+      "model_output": "BA'' 'ementementementemblyemblyemblyemblyemblyembly************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 616,
+      "ground_truth": 7,
+      "model_output": "'EM, a a m m /MEME \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u0440\u0435\u043c\u0430",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 617,
+      "ground_truth": 7,
+      "model_output": "ensazikignou:::onenonenonen::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 618,
+      "ground_truth": 7,
+      "model_output": "ensa\u2014 kn kn knikoruola%%:::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 619,
+      "ground_truth": 7,
+      "model_output": "'BA    BABABA    **********************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 620,
+      "ground_truth": 7,
+      "model_output": "Overflowbreue*  --::onen%%%%%%%::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 621,
+      "ground_truth": 7,
+      "model_output": "kszik--;:ountryuolauola****:::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 622,
+      "ground_truth": 7,
+      "model_output": "form9 via kn kn kn machineuolauolauola::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 623,
+      "ground_truth": 7,
+      "model_output": "'BABABABABABABABABABAementementementement**********",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 624,
+      "ground_truth": 7,
+      "model_output": "ksuna fit---:plexplexplex:::%%%plexplex::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 625,
+      "ground_truth": 7,
+      "model_output": "kszik---:uolauolauolaonen::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 626,
+      "ground_truth": 7,
+      "model_output": "officeabledup kn:ikt%%%%%%%%%%%%%:",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 627,
+      "ground_truth": 7,
+      "model_output": "olasBA    BABA        ********************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 628,
+      "ground_truth": 7,
+      "model_output": "Overflowinit object---//./#abe%%:::::%%:",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 629,
+      "ground_truth": 7,
+      "model_output": "kszik---- kn kn machine machine machine",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 630,
+      "ground_truth": 7,
+      "model_output": "olas to m kn kn kn machine/(uola:: machine machine machine machine machine machine:::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 631,
+      "ground_truth": 7,
+      "model_output": "'BA via'' 'ement**************************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 632,
+      "ground_truth": 7,
+      "model_output": "ockeyatteC-ockeyockeyockey (ockeyountryountry\u00b0   kn kn kn knueockey",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 633,
+      "ground_truth": 7,
+      "model_output": "abelzikignockey:::onenonenonenonenonen: ** ** ** ** ** ** **",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 634,
+      "ground_truth": 7,
+      "model_output": "abled9 via kn kn knuolauolauola:::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 635,
+      "ground_truth": 7,
+      "model_output": "'BA'' 'BABABABABABABA  **************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 636,
+      "ground_truth": 7,
+      "model_output": "ballbot the the it;/999MEMEMEMEMEME:onen::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 637,
+      "ground_truth": 7,
+      "model_output": "amed Bast---- machineuolauolauola tym tym tym tym::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 638,
+      "ground_truth": 7,
+      "model_output": "'<9 via via::/(uolauola****:::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 639,
+      "ground_truth": 7,
+      "model_output": "abledBA'''''' machine defined defined******************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 640,
+      "ground_truth": 7,
+      "model_output": "Overflow Bod\u20199 and/            And And And",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 641,
+      "ground_truth": 7,
+      "model_output": "ballzik a the the the b is: pen neglectonenonen:::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 642,
+      "ground_truth": 7,
+      "model_output": "'9 via kn knuolauolauolauolauola::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 643,
+      "ground_truth": 7,
+      "model_output": "BA via via            ********************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 644,
+      "ground_truth": 7,
+      "model_output": "olaswaing itsock:::ueMEovovonenonenonenonenonen:::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 645,
+      "ground_truth": 7,
+      "model_output": "ARNING Bast- the;;; knuolauolaonenonenonen:::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 646,
+      "ground_truth": 7,
+      "model_output": "ockey via kn kn kn kn machinehovhovhov:::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 647,
+      "ground_truth": 7,
+      "model_output": "'BA  BABABABABA************************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 648,
+      "ground_truth": 7,
+      "model_output": "arusBoolpt//- a a a a%onenonen%%%%%%%",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 649,
+      "ground_truth": 7,
+      "model_output": "cabinetzikign:::onenonenonenonenonenplexplexplexplexplexplexplexplexplex",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 650,
+      "ground_truth": 7,
+      "model_output": "rust de via machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 651,
+      "ground_truth": 7,
+      "model_output": "abledBA    ementBA          ******************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 652,
+      "ground_truth": 7,
+      "model_output": "isteagueagueunnockey:embly tradition tradition tradition tradition tradition traditionue tradition tradition\u2070 \u043f\u0440\u0435\u043c\u043000",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 653,
+      "ground_truth": 7,
+      "model_output": "octzik*::::onenonenonenonenonenonenonenonenonenonenonen::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 654,
+      "ground_truth": 7,
+      "model_output": "\u1ef19 via kn kn kn kn machineuola******::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 655,
+      "ground_truth": 7,
+      "model_output": "exBA                      **************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 656,
+      "ground_truth": 7,
+      "model_output": "ktor Walesou ;ikoruolauolauola:%%%%%%%%%%",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 657,
+      "ground_truth": 7,
+      "model_output": "weakzikignam::%onenonenonen%%%%%%%%::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 658,
+      "ground_truth": 7,
+      "model_output": "'\u2014 kn kn kn kn machine machine machineuolauolauola: machine machine machine::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 659,
+      "ground_truth": 7,
+      "model_output": "abledBA via          emblyemblyemblyemblyembly**************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 660,
+      "ground_truth": 7,
+      "model_output": "'tont:::onenonenonenonenonen%%plexplexplex::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 661,
+      "ground_truth": 7,
+      "model_output": "abl Bast a a::onenonenonenonenonenonen:: ** ** **:::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 662,
+      "ground_truth": 7,
+      "model_output": "igesamed m::/(%% denn:::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 663,
+      "ground_truth": 7,
+      "model_output": "snBA                          **********",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 664,
+      "ground_truth": 7,
+      "model_output": "ertenolly,,age-::%onenonenonenonen:::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 665,
+      "ground_truth": 7,
+      "model_output": "erten Bast---: machineuolauola**::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 666,
+      "ground_truth": 7,
+      "model_output": "\u1ef1\u1f7a\u1f7a; (::::::onenonenonen%%%%%%",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 667,
+      "ground_truth": 7,
+      "model_output": "'BA via viaBABABABABA              ********",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 668,
+      "ground_truth": 7,
+      "model_output": "cius repla\u0153uv via kn kn kn machineuolauolauolauolauolauola::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 669,
+      "ground_truth": 7,
+      "model_output": "olaszikign99;:%onenonenonenonen::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 670,
+      "ground_truth": 7,
+      "model_output": "weak parent via kn kn knuola********** ** ** ** ** ** ** ** **",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 671,
+      "ground_truth": 7,
+      "model_output": "BA    BABABA      embly******************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 672,
+      "ground_truth": 7,
+      "model_output": "ks\u90fdcement m kn kn kn-- machine machine",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 673,
+      "ground_truth": 7,
+      "model_output": "\u05e5zikign9ockeyockey:://MEMEMEMEMEMEMEMEMEME",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 674,
+      "ground_truth": 7,
+      "model_output": "'\u2014'kn kn knieckiktuola****:: ** ** ** ** ** ** **",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 675,
+      "ground_truth": 7,
+      "model_output": "cabinetBA''''''    ********************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 676,
+      "ground_truth": 7,
+      "model_output": "ossroutadaaa/ / / / Pen2222222eks",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 677,
+      "ground_truth": 7,
+      "model_output": "overflowzikou;::onenonenonenonenonenonen::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 678,
+      "ground_truth": 7,
+      "model_output": "wid9 via kn kn kn kn machine machineuola**:::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 679,
+      "ground_truth": 7,
+      "model_output": "abledBA                            ********",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 680,
+      "ground_truth": 7,
+      "model_output": "orientuena kn kn kn machineountryountryountryuolauolauola:::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 681,
+      "ground_truth": 7,
+      "model_output": "Overflowzikaitockeyockey::/( conscienceuola:::: ago ago ago:::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 682,
+      "ground_truth": 7,
+      "model_output": "heck9ockey kn kn knuolauolauolauola::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 683,
+      "ground_truth": 7,
+      "model_output": "BA                  ******************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 684,
+      "ground_truth": 7,
+      "model_output": "arusnn :  ufenufen1199999999",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 685,
+      "ground_truth": 7,
+      "model_output": "branchzik---:ountry********:::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 686,
+      "ground_truth": 7,
+      "model_output": "rust9- kn kn kn machineuolauolauola::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 687,
+      "ground_truth": 7,
+      "model_output": "abledBA''BABABA**************************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 688,
+      "ground_truth": 7,
+      "model_output": "\u25b8istrine m---/ountryountryountryountry:%% ** ** ** **%",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 689,
+      "ground_truth": 7,
+      "model_output": "j\u00e4rzikignade999:::onenonenonen:::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 690,
+      "ground_truth": 7,
+      "model_output": "deck9 it kn kn machineuolauola****:::ovov:::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 691,
+      "ground_truth": 7,
+      "model_output": "'BA''''BABABABA********************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 692,
+      "ground_truth": 7,
+      "model_output": "arus\u044c\u044fad;:::: Via:::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 693,
+      "ground_truth": 7,
+      "model_output": "olas Bast- the--:: wil wil wil tym tym tym::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 694,
+      "ground_truth": 7,
+      "model_output": "ex de via kn kn kn machine machine****::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 695,
+      "ground_truth": 7,
+      "model_output": "rustBA                            ********",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 696,
+      "ground_truth": 7,
+      "model_output": "dexherr6   -- a Ty Tys--------",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 697,
+      "ground_truth": 7,
+      "model_output": "ruszik--::onenonenonenonen::%%%:::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 698,
+      "ground_truth": 7,
+      "model_output": "Middleabled--:/(/(uolauolauola::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 699,
+      "ground_truth": 7,
+      "model_output": "abledBA'' 'BABA            **************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 700,
+      "ground_truth": 7,
+      "model_output": "ksolly,age:::onenonenonenonen%%%%:::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 701,
+      "ground_truth": 7,
+      "model_output": "cabinetzikign:::onenonenonenonen::::::::::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 702,
+      "ground_truth": 7,
+      "model_output": "sp9 via'kn kn kn machine machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 703,
+      "ground_truth": 7,
+      "model_output": "structBA'''' 'BA machine**********************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 704,
+      "ground_truth": 7,
+      "model_output": "ksollyim- via m::::%%%%:::",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 705,
+      "ground_truth": 7,
+      "model_output": "cius Bast---::uolauolauola:: ** ** ** ** ** ** ** **",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 706,
+      "ground_truth": 7,
+      "model_output": "ou9 kn kn knikoruolauolauola:::::: ** ** ** **:",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 707,
+      "ground_truth": 7,
+      "model_output": "bordBA''BABABABA          **************",
+      "label_name": "sofa"
+    },
+    {
+      "object_id": 708,
+      "ground_truth": 8,
+      "model_output": "sn osc in fit ( (rai%uolauolauola:::::%%%:",
+      "label_name": "table"
+    },
+    {
+      "object_id": 709,
+      "ground_truth": 8,
+      "model_output": "olaszik--- machine machine machine machine machineementementementement::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 710,
+      "ground_truth": 8,
+      "model_output": "coff9 via'machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "table"
+    },
+    {
+      "object_id": 711,
+      "ground_truth": 8,
+      "model_output": "abled via viaementementementementementementementementementement**************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 712,
+      "ground_truth": 8,
+      "model_output": "'attanwe ( ( machine machine machine machine****************:::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 713,
+      "ground_truth": 8,
+      "model_output": "ensazik--:: machineuola**:::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 714,
+      "ground_truth": 8,
+      "model_output": "Overflow9ockeyockey kn kn knuolauolauolauolauolauola:::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 715,
+      "ground_truth": 8,
+      "model_output": "'BA'' '******************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 716,
+      "ground_truth": 8,
+      "model_output": "\u25b6 Portal flesh----;; knuolauola**:%%%%%%",
+      "label_name": "table"
+    },
+    {
+      "object_id": 717,
+      "ground_truth": 8,
+      "model_output": "kszik---:onenuolaonenonen ** ** ** ** ** ** ** ** ** **",
+      "label_name": "table"
+    },
+    {
+      "object_id": 718,
+      "ground_truth": 8,
+      "model_output": "olas9-- kn kn machine machine machine**::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 719,
+      "ground_truth": 8,
+      "model_output": "abledBA''''****************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 720,
+      "ground_truth": 8,
+      "model_output": "Andreas mur object--- knountry machine Via::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 721,
+      "ground_truth": 8,
+      "model_output": "Overflow Bast--- machineuolauolauola**::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 722,
+      "ground_truth": 8,
+      "model_output": "g9 via kn machine parentuola********** ** ** ** ** ** ** ** **",
+      "label_name": "table"
+    },
+    {
+      "object_id": 723,
+      "ground_truth": 8,
+      "model_output": "cabinet via via viaementementementement************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 724,
+      "ground_truth": 8,
+      "model_output": "formjourd---:ountryountry****::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 725,
+      "ground_truth": 8,
+      "model_output": "Overflowzik---:onenonenonenonen%%%%%%::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 726,
+      "ground_truth": 8,
+      "model_output": "'9- kn kn kn machine machine****::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 727,
+      "ground_truth": 8,
+      "model_output": "Overflow via************************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 728,
+      "ground_truth": 8,
+      "model_output": "culUB1 fit r---anoanoano0999000 vers a",
+      "label_name": "table"
+    },
+    {
+      "object_id": 729,
+      "ground_truth": 8,
+      "model_output": "olaszik---: machine******::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 730,
+      "ground_truth": 8,
+      "model_output": "'9'' kn kn kn machine machine machine machine**ementementementementementementementement",
+      "label_name": "table"
+    },
+    {
+      "object_id": 731,
+      "ground_truth": 8,
+      "model_output": "itetBA''ementementementementementementementementementementementementement******",
+      "label_name": "table"
+    },
+    {
+      "object_id": 732,
+      "ground_truth": 8,
+      "model_output": "ye zvukyuamarockey-:::::::plexplexplexplex:::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 733,
+      "ground_truth": 8,
+      "model_output": "Overflow  -----uola****::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 734,
+      "ground_truth": 8,
+      "model_output": "'9'''machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "table"
+    },
+    {
+      "object_id": 735,
+      "ground_truth": 8,
+      "model_output": "abelBAementementementementementementementement********************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 736,
+      "ground_truth": 8,
+      "model_output": "orientationForKey to to to///:::999::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 737,
+      "ground_truth": 8,
+      "model_output": "Overflow Bast---:hovuola::::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 738,
+      "ground_truth": 8,
+      "model_output": "bord9 m kn kn machineuolauolauola denn denn denn denn%%%%%%:",
+      "label_name": "table"
+    },
+    {
+      "object_id": 739,
+      "ground_truth": 8,
+      "model_output": "cabinetBA'''''''''''' '**********",
+      "label_name": "table"
+    },
+    {
+      "object_id": 740,
+      "ground_truth": 8,
+      "model_output": "keleleb19 ang suit suitockeyountryountry Ty%%%::::: **",
+      "label_name": "table"
+    },
+    {
+      "object_id": 741,
+      "ground_truth": 8,
+      "model_output": "weakzikign999999 it transl transl widillMEMEMEMEMEME",
+      "label_name": "table"
+    },
+    {
+      "object_id": 742,
+      "ground_truth": 8,
+      "model_output": "Middle9 via kn kn kn kn kn kn****:::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 743,
+      "ground_truth": 8,
+      "model_output": "'BA'''''''''defined defined defined defined defined defined defined defined defined",
+      "label_name": "table"
+    },
+    {
+      "object_id": 744,
+      "ground_truth": 8,
+      "model_output": "andlebigu -----: **:::::\u25cb",
+      "label_name": "table"
+    },
+    {
+      "object_id": 745,
+      "ground_truth": 8,
+      "model_output": "ensazik--- machineuolauolauola**%%%% ** ** ** ** ** **",
+      "label_name": "table"
+    },
+    {
+      "object_id": 746,
+      "ground_truth": 8,
+      "model_output": "Middle9 via via kn kn machine machine machine machine****::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 747,
+      "ground_truth": 8,
+      "model_output": "defined via''''''''''''''''****",
+      "label_name": "table"
+    },
+    {
+      "object_id": 748,
+      "ground_truth": 8,
+      "model_output": "(unn a--- to a a a8ogneogne:::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 749,
+      "ground_truth": 8,
+      "model_output": "olaszik---:hov**::::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 750,
+      "ground_truth": 8,
+      "model_output": "lass9-- kn machine machineuolauola:::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 751,
+      "ground_truth": 8,
+      "model_output": "OverflowBA    ********************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 752,
+      "ground_truth": 8,
+      "model_output": "cius Nation object-- knhovuolauola:::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 753,
+      "ground_truth": 8,
+      "model_output": "Overflow Bast---:uolauolauolauola::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 754,
+      "ground_truth": 8,
+      "model_output": "overflow9- kn kn machineuolauola******:%% ** ** ** ** ** **",
+      "label_name": "table"
+    },
+    {
+      "object_id": 755,
+      "ground_truth": 8,
+      "model_output": "OverflowBA 'ementementementement**************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 756,
+      "ground_truth": 8,
+      "model_output": "ensafto---ockeyockeyiktiktuolauola denn%%%%%%%",
+      "label_name": "table"
+    },
+    {
+      "object_id": 757,
+      "ground_truth": 8,
+      "model_output": "overflowzik--:iktuolauolauola:::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 758,
+      "ground_truth": 8,
+      "model_output": "office9--:%%%%%%%%%% ** ** ** ** **",
+      "label_name": "table"
+    },
+    {
+      "object_id": 759,
+      "ground_truth": 8,
+      "model_output": "cabinet via'' 'ementementement************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 760,
+      "ground_truth": 8,
+      "model_output": "talinale-----ountryountryountryountry:%%::: **%%",
+      "label_name": "table"
+    },
+    {
+      "object_id": 761,
+      "ground_truth": 8,
+      "model_output": "olaszik---;ountryountry wiluolauola wil tym:::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 762,
+      "ground_truth": 8,
+      "model_output": "sap9-- kn machineuolauola::::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 763,
+      "ground_truth": 8,
+      "model_output": "'via via via viaement****************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 764,
+      "ground_truth": 8,
+      "model_output": "ockeyagu to:::%%%:::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 765,
+      "ground_truth": 8,
+      "model_output": "weakzik--::onenonenonenonenonenonenonen%%plexplexplexplex:",
+      "label_name": "table"
+    },
+    {
+      "object_id": 766,
+      "ground_truth": 8,
+      "model_output": "'9 via kn kn kn machine machine machine machine machine:::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 767,
+      "ground_truth": 8,
+      "model_output": "heckBA''''****************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 768,
+      "ground_truth": 8,
+      "model_output": "cera Situ---//ountryiktiktikt:::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 769,
+      "ground_truth": 8,
+      "model_output": "kszik-:::onenuolaonenonenonen%%%%%%%::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 770,
+      "ground_truth": 8,
+      "model_output": "vo9 m kn kn machine%%%:::::::::: **",
+      "label_name": "table"
+    },
+    {
+      "object_id": 771,
+      "ground_truth": 8,
+      "model_output": "'BA 'ementementementementementement**********************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 772,
+      "ground_truth": 8,
+      "model_output": "ou\u00e8que via via via- ( machine machine machine machineuolauola**::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 773,
+      "ground_truth": 8,
+      "model_output": "Push Bast--- knountryuolauolauola**:::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 774,
+      "ground_truth": 8,
+      "model_output": "Andreas9'kn kn kn machine machine machine machine copy copy copy:::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 775,
+      "ground_truth": 8,
+      "model_output": "widBA'' '******************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 776,
+      "ground_truth": 8,
+      "model_output": "omerDescriptor intersection---: machine machine Machineuolauolauola**::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 777,
+      "ground_truth": 8,
+      "model_output": "kszik--:::onenonenonenonenonen%%%%%:::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 778,
+      "ground_truth": 8,
+      "model_output": "Andreas9 kn kn kn kn machineuolauolauolauola:::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 779,
+      "ground_truth": 8,
+      "model_output": "'via''''''************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 780,
+      "ground_truth": 8,
+      "model_output": "znik Mant ( ( (ockeyockeyountryountryountry computer computer computer computerueuolauola:::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 781,
+      "ground_truth": 8,
+      "model_output": "vertzik--- machine machine machine machine machine machine machine machine machine machine machine machine machine machine machine",
+      "label_name": "table"
+    },
+    {
+      "object_id": 782,
+      "ground_truth": 8,
+      "model_output": "g9 m kn kn kn machine machine machine****:::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 783,
+      "ground_truth": 8,
+      "model_output": "AND via************************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 784,
+      "ground_truth": 8,
+      "model_output": "ks\u4ea4 the the /-998 the the the::aboraboraboraborabor",
+      "label_name": "table"
+    },
+    {
+      "object_id": 785,
+      "ground_truth": 8,
+      "model_output": "orientzik---:********::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 786,
+      "ground_truth": 8,
+      "model_output": "'9 via kn kn knuolauola******** ** ** ** ** ** ** ** **",
+      "label_name": "table"
+    },
+    {
+      "object_id": 787,
+      "ground_truth": 8,
+      "model_output": "mixBA''BABA****************************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 788,
+      "ground_truth": 8,
+      "model_output": "conformwa It It-::::::::%%%::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 789,
+      "ground_truth": 8,
+      "model_output": "ks Bast--::onenuolaonen:::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 790,
+      "ground_truth": 8,
+      "model_output": "g9 via kn kn kn machine******** tym tym tym::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 791,
+      "ground_truth": 8,
+      "model_output": "'BA 'ementementementementementementement********************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 792,
+      "ground_truth": 8,
+      "model_output": "sur\u4f53 a and and--2222:::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 793,
+      "ground_truth": 8,
+      "model_output": "kszik--- machine machine******::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 794,
+      "ground_truth": 8,
+      "model_output": "olas9- kn kn machineuolauolauola:::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 795,
+      "ground_truth": 8,
+      "model_output": "'<BAementementementementementementementementementementementementementementementementementement",
+      "label_name": "table"
+    },
+    {
+      "object_id": 796,
+      "ground_truth": 8,
+      "model_output": "tgram Le-- suit suit a a a a a a a::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 797,
+      "ground_truth": 8,
+      "model_output": "ks Bast----uolauola************** ** ** ** ** **",
+      "label_name": "table"
+    },
+    {
+      "object_id": 798,
+      "ground_truth": 8,
+      "model_output": "ped9ockey kn kn knuolauolauolauola::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 799,
+      "ground_truth": 8,
+      "model_output": "'via'''''''''''' '**********",
+      "label_name": "table"
+    },
+    {
+      "object_id": 800,
+      "ground_truth": 8,
+      "model_output": "cius Studio ( ( ( tradition99999    abelabelsolsolg",
+      "label_name": "table"
+    },
+    {
+      "object_id": 801,
+      "ground_truth": 8,
+      "model_output": "ks Bast----onenonenonenonenonen::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 802,
+      "ground_truth": 8,
+      "model_output": "'9---: machine machine%:::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 803,
+      "ground_truth": 8,
+      "model_output": "ani viaementementementementementementementementementementementembly************",
+      "label_name": "table"
+    },
+    {
+      "object_id": 804,
+      "ground_truth": 8,
+      "model_output": "offsetrut ( (   \u043f\u0440\u0435\u043c\u0430          ituuu",
+      "label_name": "table"
+    },
+    {
+      "object_id": 805,
+      "ground_truth": 8,
+      "model_output": "ballzik---:uolauolauola:::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 806,
+      "ground_truth": 8,
+      "model_output": "ktor9- kn kn kn machine Viauola**::::::::::",
+      "label_name": "table"
+    },
+    {
+      "object_id": 807,
+      "ground_truth": 8,
+      "model_output": "wid viaementementementementementementementementementementementementementementementement****",
+      "label_name": "table"
+    },
+    {
+      "object_id": 808,
+      "ground_truth": 9,
+      "model_output": "inetensch y:--   are protect pen pen penadjadjadjPPP",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 809,
+      "ground_truth": 9,
+      "model_output": "idelzik--:::onenonenonenonenonen::::::::",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 810,
+      "ground_truth": 9,
+      "model_output": "stat\u1f7a\u00c3::::::: Gor inferior::::::::",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 811,
+      "ground_truth": 9,
+      "model_output": "cabinet via via via'' via via via defined defined defined**:::::::",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 812,
+      "ground_truth": 9,
+      "model_output": "cloudflareuniue are by by a a a ** ** **plexplexplexplexplex\u2009;;",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 813,
+      "ground_truth": 9,
+      "model_output": "theais the the the ayter'the- on the the the the99 to to to",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 814,
+      "ground_truth": 9,
+      "model_output": "ks\u03cc\u2019 ( (- kn kn\u00b0\u00b0::::::::%%",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 815,
+      "ground_truth": 9,
+      "model_output": "structBA              **********************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 816,
+      "ground_truth": 9,
+      "model_output": "Baseacci s::ikorikor denn:::::::%%%%%",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 817,
+      "ground_truth": 9,
+      "model_output": "",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 818,
+      "ground_truth": 9,
+      "model_output": "\u1ef1\u1f7a-;:::::uolauola:: ** ** ** **%%:",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 819,
+      "ground_truth": 9,
+      "model_output": "structBA      BABAemblyemblyemblyemblyemblyemblyemblyemblyembly********",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 820,
+      "ground_truth": 9,
+      "model_output": "claASF thewed le8 899rmortmortyinterperobrobpl",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 821,
+      "ground_truth": 9,
+      "model_output": "thezik*aeae;;;:      absolutely absolutely absolutely absolutely absolutely absolutely",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 822,
+      "ground_truth": 9,
+      "model_output": "olas\u2014'it::%uolauolauolauola:::::::::",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 823,
+      "ground_truth": 9,
+      "model_output": "BAementementementementementementemblyemblyemblyembly****************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 824,
+      "ground_truth": 9,
+      "model_output": "erbopf // oneR2      totally totally totally totally totallyria",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 825,
+      "ground_truth": 9,
+      "model_output": "leaisignamam000000000    free totally",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 826,
+      "ground_truth": 9,
+      "model_output": "rn.\u2014\u2019           knandal*///and",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 827,
+      "ground_truth": 9,
+      "model_output": "abledBA  ementBABABABA************************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 828,
+      "ground_truth": 9,
+      "model_output": "ensa Param, a a--577   4 the4 the the the",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 829,
+      "ground_truth": 9,
+      "model_output": "chamber Bast the the the the from from the the the the the the the the the the the the",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 830,
+      "ground_truth": 9,
+      "model_output": ". parent kn--::plexplex******::::::::",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 831,
+      "ground_truth": 9,
+      "model_output": "abled via via via via via via via via**********************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 832,
+      "ground_truth": 9,
+      "model_output": "heitokal the ------::** ** ** ** **",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 833,
+      "ground_truth": 9,
+      "model_output": "myadd the the a the00/ /--      11",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 834,
+      "ground_truth": 9,
+      "model_output": "Overflow\u1f7a\u2014\u2014 and--*::: 999  a aob a",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 835,
+      "ground_truth": 9,
+      "model_output": "BAementementementementement**************************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 836,
+      "ground_truth": 9,
+      "model_output": "cephiaing isic000  S 110entudesudes,,",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 837,
+      "ground_truth": 9,
+      "model_output": "Env Bast--:: negonenonenonenplex%%%%%\u2009;;;",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 838,
+      "ground_truth": 9,
+      "model_output": "'\u2014-:ieck%plexplexplexplex ** ** ** ** ** ** ** ** ** **",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 839,
+      "ground_truth": 9,
+      "model_output": "abledBA  BABABABAemblyemblyemblyemblyemblyembly**************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 840,
+      "ground_truth": 9,
+      "model_output": "Afrefix - 9999999 the the themm/init",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 841,
+      "ground_truth": 9,
+      "model_output": "\u25cbadd the the a a        5 a\u25b8\u21b5 C C",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 842,
+      "ground_truth": 9,
+      "model_output": "Overflow,9and:::(:(::::999988orphorph",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 843,
+      "ground_truth": 9,
+      "model_output": "abledBA  ementementementementementementementement******************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 844,
+      "ground_truth": 9,
+      "model_output": "s Intor the in containinininMM     --- absolutely",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 845,
+      "ground_truth": 9,
+      "model_output": "snzik a a::onenonenonenplexplexplexplexplexplex:::::",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 846,
+      "ground_truth": 9,
+      "model_output": "'\u2014- kn:ikor%uolaplexplex** ** ** ** ** ** ** ** ** **",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 847,
+      "ground_truth": 9,
+      "model_output": "cabinetBA''''              **************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 848,
+      "ground_truth": 9,
+      "model_output": "soap\u0432\u0438\u0447  the  the the the the the94 four four fourrestmbbh",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 849,
+      "ground_truth": 9,
+      "model_output": "erten Bast a a a a-- the the:9::::::::",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 850,
+      "ground_truth": 9,
+      "model_output": "ani\u1f7a\u00c3; ( (:::****** ** ** ** ** ** ** ** **",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 851,
+      "ground_truth": 9,
+      "model_output": "inusBA via via          **********************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 852,
+      "ground_truth": 9,
+      "model_output": "wer mehrerer  the the the a a-NI699---- at at at",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 853,
+      "ground_truth": 9,
+      "model_output": "octzik--: aonenonenonenonen%%%%::::::",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 854,
+      "ground_truth": 9,
+      "model_output": "'--- kn kn kn machine****************** ** ** **",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 855,
+      "ground_truth": 9,
+      "model_output": "itetBA viaementementementement    **********************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 856,
+      "ground_truth": 9,
+      "model_output": "kapty it the0000---mpolderes benbiv and",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 857,
+      "ground_truth": 9,
+      "model_output": "branchadd the a a a a a a a  we the the the the the333",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 858,
+      "ground_truth": 9,
+      "model_output": "w\u1f7a\u2014\u2014 and::plexplexplex::%%%%%%% **",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 859,
+      "ground_truth": 9,
+      "model_output": "abled via via viaementementementementement**********************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 860,
+      "ground_truth": 9,
+      "model_output": "vezedish and the-----8111~  at at",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 861,
+      "ground_truth": 9,
+      "model_output": "\u00e5rsadd thethe,theon..00119933333",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 862,
+      "ground_truth": 9,
+      "model_output": "mill L---: machine** ** ** ** ** ** ** ** ** ** ** ** **",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 863,
+      "ground_truth": 9,
+      "model_output": "\u1ef1 via via viaementementementement    ********************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 864,
+      "ground_truth": 9,
+      "model_output": "\u015bcieprototype--\u21b5---       --222",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 865,
+      "ground_truth": 9,
+      "model_output": "Hazikign:::onenonenonenonenonen%%%%%%%;;",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 866,
+      "ground_truth": 9,
+      "model_output": "deck999 that that::::: ( (outer",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 867,
+      "ground_truth": 9,
+      "model_output": "'BA via 'BABABABABABABABA  **************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 868,
+      "ground_truth": 9,
+      "model_output": "Baudrum for for:%%;; the: the the the",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 869,
+      "ground_truth": 9,
+      "model_output": "+ais the the a00--- the the the a a a a a a a",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 870,
+      "ground_truth": 9,
+      "model_output": "it\u1f7a\u2014\u2014- or vers rel rel rel rel,99 to to to tail tail p",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 871,
+      "ground_truth": 9,
+      "model_output": "safe via via via via via      **********************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 872,
+      "ground_truth": 9,
+      "model_output": "essopfby Archivlink\u21b5 P C P the the the the the a the the a a a a",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 873,
+      "ground_truth": 9,
+      "model_output": "theais the,,,,ereringe----- to2thirdt",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 874,
+      "ground_truth": 9,
+      "model_output": "g L---:::: ** ** ** ** ** ** ** ** **::",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 875,
+      "ground_truth": 9,
+      "model_output": "'BA viaementementementement machine machine**********************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 876,
+      "ground_truth": 9,
+      "model_output": "wegippi. the the0 the the the  3000448it Shaw",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 877,
+      "ground_truth": 9,
+      "model_output": "guardzik*:::% **\u2009plexplexplexplexplexplexplexplexplexplexplex",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 878,
+      "ground_truth": 9,
+      "model_output": "Andreas. it::%%%plex%:::::: ** ** ** **",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 879,
+      "ground_truth": 9,
+      "model_output": "OverflowBA            ************************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 880,
+      "ground_truth": 9,
+      "model_output": "amp Licencia in in\u25b6\u21b5\u21b5\u21b5\u21b5- the the u the .../",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 881,
+      "ground_truth": 9,
+      "model_output": "1 BastamadeaeaeF,   d, ( ( (   9",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 882,
+      "ground_truth": 9,
+      "model_output": "is.\u2014, and and   999     to to to to/",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 883,
+      "ground_truth": 9,
+      "model_output": "structBA  ementBABABABABA      ****************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 884,
+      "ground_truth": 9,
+      "model_output": "Overflowrze   and and the the the Archivlink C C an anro theobobetraetra",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 885,
+      "ground_truth": 9,
+      "model_output": "hzikair a a;::(:(:(:(\n       ator",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 886,
+      "ground_truth": 9,
+      "model_output": "lass\u2014 \u2013-    aryaryaryaryu4444 r rr",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 887,
+      "ground_truth": 9,
+      "model_output": "rustBA  ementBABABAement  **********************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 888,
+      "ground_truth": 9,
+      "model_output": "als wojew S the the the c..) to the the the not not the the the the",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 889,
+      "ground_truth": 9,
+      "model_output": ",aisign the  ::%:{%%..,:::99",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 890,
+      "ground_truth": 9,
+      "model_output": "ius.\u2014\u2019                b",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 891,
+      "ground_truth": 9,
+      "model_output": "'via via via viaementement    :::::******:::",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 892,
+      "ground_truth": 9,
+      "model_output": "Internetisat",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 893,
+      "ground_truth": 9,
+      "model_output": "yet Bast a a a a a555555\u25bc\u21b5\u21b5- a a a",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 894,
+      "ground_truth": 9,
+      "model_output": "Office9 via kn kn machine Via Via****** ** ** ** ** ** ** ** ** **",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 895,
+      "ground_truth": 9,
+      "model_output": "abelBAementementementementementementementement********************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 896,
+      "ground_truth": 9,
+      "model_output": "DNallas-- ( ( R'   absolutely absolutely",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 897,
+      "ground_truth": 9,
+      "model_output": "remainingais the the the the the the theyter\u21b5ll the the the\u25b2\u21b5 C C",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 898,
+      "ground_truth": 9,
+      "model_output": "w which and0,:  999  DDD",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 899,
+      "ground_truth": 9,
+      "model_output": "struct via viaementementementementementement**********************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 900,
+      "ground_truth": 9,
+      "model_output": "ertenorage, Archivlink\u21b5 C C\n,, the theath at at at//..",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 901,
+      "ground_truth": 9,
+      "model_output": "\u200baque the the the the---55 the the the the the the the the the",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 902,
+      "ground_truth": 9,
+      "model_output": "online=\"@+- and and //          ( ( that",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 903,
+      "ground_truth": 9,
+      "model_output": "'BA    BABABAemblyemblyemblyembly******************",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 904,
+      "ground_truth": 9,
+      "model_output": "osp Od in and 333\u25b6\u21b5 d- f the the the theinging7",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 905,
+      "ground_truth": 9,
+      "model_output": "/ Bast a the a a a the the the the555ss----",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 906,
+      "ground_truth": 9,
+      "model_output": "ime\u1f7a\u2014 and and hoand (   999  d totally totally",
+      "label_name": "toilet"
+    },
+    {
+      "object_id": 907,
+      "ground_truth": 9,
+      "model_output": "via via viaementementementementementementementement****************",
+      "label_name": "toilet"
+    }
+  ]
+}

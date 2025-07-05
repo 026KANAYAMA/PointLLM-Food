@@ -4,20 +4,21 @@
     {
       "object_id": 0,
       "ground_truth": 0,
-      "model_output": "abluneelneln cli cli cli cli cli kn kn cli cli cli cli:::::",
+      "model_output": "This is a 3D model of a cartoon-style black circle that contains various images.",
       "label_name": "friedshrimp"
     },
     {
       "object_id": 1,
       "ground_truth": 1,
-      "model_output": "with R bolNNMasterMasterMasterMasterMasterMasterMasterMasterMasterMasterMasterMasterBBB",
+      "model_output": "This is a 3D model of a bowl that contains a dark, black substance.",
       "label_name": "potato"
     },
     {
       "object_id": 2,
       "ground_truth": 2,
-      "model_output": "\u2014-000000777777PPPPPP",
+      "model_output": "This is a 3D model of a black rectangular object, which is designed with a unique",
       "label_name": "tamago"
     }
   ]
 }
+

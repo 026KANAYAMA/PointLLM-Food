@@ -2,11 +2,13 @@ import argparse
 import torch
 from torch.utils.data import DataLoader
 import os
+os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,2,3"
+
 from pointllm.conversation import conv_templates, SeparatorStyle
 from pointllm.utils import disable_torch_init
 from pointllm.model.utils import KeywordsStoppingCriteria
 from pointllm.model import PointLLMLlamaForCausalLM
-from pointllm.data import UECFood3D_v1
+from pointllm.data import UECFood3D_v1, ModelNet10WithNorm, UECFood3D_v2
 from tqdm import tqdm
 from pointllm.eval.evaluator import start_evaluation
 from transformers import AutoTokenizer
@@ -21,6 +23,13 @@ PROMPT_LISTS = [
         "The following input is a 3-D point-cloud model of a household object.\n"
         "Answer with **exactly one** word chosen from this list:\n"
         "bathtub, bed, chair, desk, dresser, monitor, night_stand, sofa, table, toilet.\n"
+        "Do not add any extra words, punctuation or explanations.\n\n"
+        "Answer:"
+    ),
+    (
+        "The following input is a 3-D point-cloud model of a food object.\n"
+        "Answer with **exactly one** word chosen from this list:\n"
+        "friedshrimp, potato, tamago\n"
         "Do not add any extra words, punctuation or explanations.\n\n"
         "Answer:"
     )
@@ -38,10 +47,11 @@ def init_model(args):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = PointLLMLlamaForCausalLM.from_pretrained(
         model_name,
+        # force_download=True,
         low_cpu_mem_usage=True, 
         use_cache=True, 
         # torch_dtype=torch.bfloat16,
-        device_map=args.device_map
+        # device_map=args.device_map
     )
     model.initialize_tokenizer_point_backbone_config_wo_embedding(tokenizer)
 
@@ -78,6 +88,11 @@ def load_dataset(config_path, dataset_name, split, subset_nums, use_color):
             subset_nums=subset_nums,
             use_color=use_color
         )
+    elif dataset_name == "uecfood3d_v2":
+        dataset = UECFood3D_v2(
+            split=split,
+            subset_nums=subset_nums,
+        )
     else:
         dataset = None
     if dataset is None:
@@ -93,6 +108,7 @@ def get_dataloader(dataset, batch_size, shuffle=False, num_workers=4):
     return dataloader
 
 def generate_outputs(model, tokenizer, input_ids, point_clouds, stopping_criteria, do_sample=True, temperature=1.0, top_k=50, max_length=2048, top_p=0.95):
+    model = model.to("cuda:0")
     model.eval() 
     # 出力を1tokenにする
     do_sample = False
@@ -188,8 +204,10 @@ def start_generation(model, tokenizer, conv, dataloader, prompt_index, output_di
 def main(args):
     # * ouptut
     # args.output_dir = os.path.join(args.model_name, "evaluation")
+    from datetime import datetime
     args.output_dir = "/home/yanai-lab/kanayama-r/Projects/LLM/PointLLM-Food/out"
-    args.output_file = f"{args.dataset}_5token.json"
+    now_str = datetime.now().strftime("%Y%m%d_%H%M%S")
+    args.output_file = f"{args.dataset}_{now_str}.json"
     args.output_file_path = os.path.join(args.output_dir, args.output_file)
 
     # * First inferencing, then evaluate
@@ -268,6 +286,15 @@ if __name__ == "__main__":
 # export PYTHONPATH=$PWD
 # nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --device_map auto --num_workers 8 --prompt_index 2 --dataset modelnet10_with_norm > ~/Projects/LLM/nohup.groovy &
 
+### modelnet10_with_norm
+# export PYTHONPATH=$PWD
+# nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --num_workers 8 --prompt_index 0 --dataset modelnet10_with_norm > ~/Projects/LLM/nohup.groovy &
+
+
 ## UECFood3D_v1
 # export PYTHONPATH=$PWD
-# nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --num_workers 8 --prompt_index 1 --dataset uecfood3d_v1 > ~/Projects/LLM/nohup.groovy &
+# nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --num_workers 8 --prompt_index 0 --dataset uecfood3d_v1 > ~/Projects/LLM/nohup.groovy &
+
+## UECFood3D_v2
+# export PYTHONPATH=$PWD
+# nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --num_workers 8 --prompt_index 3 --dataset uecfood3d_v2 > ~/Projects/LLM/nohup.groovy 2>&1 &
