@@ -1,0 +1,23 @@
+{
+  "prompt": "This is an object of ",
+  "results": [
+    {
+      "object_id": 0,
+      "ground_truth": 0,
+      "model_output": "Overflow fitelnelneln cli kn kn kn kn kn:(:(:(:(:::::",
+      "label_name": "friedshrimp"
+    },
+    {
+      "object_id": 1,
+      "ground_truth": 1,
+      "model_output": "inunefterfterfterfterFFFF part partBBBBBBBB",
+      "label_name": "potato"
+    },
+    {
+      "object_id": 2,
+      "ground_truth": 2,
+      "model_output": "ntsmddzy0000007777000000",
+      "label_name": "tamago"
+    }
+  ]
+}

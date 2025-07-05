@@ -1,0 +1,8 @@
+NAME: UECFood3D_v1
+DATA_PATH: /home/yanai-lab/kanayama-r/Projects/3D/out/UECFood3D/v1
+NUM_CATEGORY: 3
+USE_NORMALS: False
+npoints: 8192
+random_sampling: TRUE
+use_height: FALSE
+use_normals: FALSE

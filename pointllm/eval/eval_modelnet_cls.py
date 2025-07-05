@@ -6,7 +6,7 @@ from pointllm.conversation import conv_templates, SeparatorStyle
 from pointllm.utils import disable_torch_init
 from pointllm.model.utils import KeywordsStoppingCriteria
 from pointllm.model import PointLLMLlamaForCausalLM
-from pointllm.data import ModelNet, ModelNet10, ModelNet10WithNorm
+from pointllm.data import UECFood3D_v1
 from tqdm import tqdm
 from pointllm.eval.evaluator import start_evaluation
 from transformers import AutoTokenizer
@@ -72,6 +72,12 @@ def load_dataset(config_path, dataset_name, split, subset_nums, use_color):
             subset_nums=subset_nums,
             use_color=use_color
         )
+    elif dataset_name == "uecfood3d_v1":
+        dataset = UECFood3D_v1(
+            split=split,
+            subset_nums=subset_nums,
+            use_color=use_color
+        )
     else:
         dataset = None
     if dataset is None:
@@ -92,7 +98,7 @@ def generate_outputs(model, tokenizer, input_ids, point_clouds, stopping_criteri
     do_sample = False
     temperature = 0.0
     top_k = 1
-    max_new_tokens=3
+    max_new_tokens=20
     with torch.inference_mode():
         output_ids = model.generate(
             input_ids,
@@ -183,7 +189,7 @@ def main(args):
     # * ouptut
     # args.output_dir = os.path.join(args.model_name, "evaluation")
     args.output_dir = "/home/yanai-lab/kanayama-r/Projects/LLM/PointLLM-Food/out"
-    args.output_file = f"{args.dataset}_3token.json"
+    args.output_file = f"{args.dataset}_5token.json"
     args.output_file_path = os.path.join(args.output_dir, args.output_file)
 
     # * First inferencing, then evaluate
@@ -261,3 +267,7 @@ if __name__ == "__main__":
 ## クラス分類、生成1token
 # export PYTHONPATH=$PWD
 # nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --device_map auto --num_workers 8 --prompt_index 2 --dataset modelnet10_with_norm > ~/Projects/LLM/nohup.groovy &
+
+## UECFood3D_v1
+# export PYTHONPATH=$PWD
+# nohup python pointllm/eval/eval_modelnet_cls.py --batch_size 4 --num_workers 8 --prompt_index 1 --dataset uecfood3d_v1 > ~/Projects/LLM/nohup.groovy &
